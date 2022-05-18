@@ -3,29 +3,52 @@ owner: upptime # Your GitHub organization or username, where this repository liv
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Blog
+    url: https://blog.androz2091.fr
+  - name: DDPE
+    url: https://ddpe.androz2091.fr
+  - name: Diswho
+    url: https://diswho.androz2091.fr
+  - name: Umami Analytics
+    url: https://analytics.androz2091.fr
+  - name: Plex
+    url: https://plex.androz2091.fr
+  - name: Jellyfin
+    url: https://jellyfin.androz2091.fr
+  - name: Cloud
+    url: https://cloud.androz2091.fr
+  - name: DL
+    url: https://dl.androz2091.fr
+  - name: Peertube
+    url: https://peertube.androz2091.fr
+  - name: Hastebin
+    url: https://hastebin.androz2091.fr
+  - name: My GitHub Stats API
+    url: https://my-gh-stats.androz2091.fr
+  - name: QBittorrent
+    url: https://qbt.androz2091.fr
+  - name: Instaddict
+    url: https://instaddict.androz2091.fr
+  - name: Online Love Calc
+    url: https://love-calc.androz2091.fr
+  - name: Slash Commands GUI
+    url: https://slash-commands-gui.androz2091.fr
+  - name: Twittycord
+    url: https://twittycord.com
+  - name: ManageInvite
+    url: https://manage-invite.xyz
+  - name: Eat now
+    url: https://eat-now.smn.tools
+ 
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+  cname: ismyserverworki.ng
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "**Simon** - aka Androz2091 - **services status page**"
+  introMessage: This page shows the status of the services and projects hosted on my servers.
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
