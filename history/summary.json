@@ -59,18 +59,18 @@
     "icon": "https://favicons.githubusercontent.com/analytics.androz2091.fr",
     "slug": "umami-analytics",
     "status": "down",
-    "uptime": "2.95%",
-    "uptimeDay": "2.95%",
-    "uptimeWeek": "2.95%",
-    "uptimeMonth": "2.95%",
-    "uptimeYear": "2.95%",
+    "uptime": "2.31%",
+    "uptimeDay": "2.31%",
+    "uptimeWeek": "2.31%",
+    "uptimeMonth": "2.31%",
+    "uptimeYear": "2.31%",
     "time": 592,
     "timeDay": 592,
     "timeWeek": 592,
     "timeMonth": 592,
     "timeYear": 592,
     "dailyMinutesDown": {
-      "2022-05-18": 0
+      "2022-05-18": 1
     }
   },
   {
@@ -79,18 +79,18 @@
     "icon": "https://favicons.githubusercontent.com/plex.androz2091.fr",
     "slug": "plex",
     "status": "down",
-    "uptime": "1.17%",
-    "uptimeDay": "1.17%",
-    "uptimeWeek": "1.17%",
-    "uptimeMonth": "1.17%",
-    "uptimeYear": "1.17%",
+    "uptime": "0.96%",
+    "uptimeDay": "0.96%",
+    "uptimeWeek": "0.96%",
+    "uptimeMonth": "0.96%",
+    "uptimeYear": "0.96%",
     "time": 535,
     "timeDay": 535,
     "timeWeek": 535,
     "timeMonth": 535,
     "timeYear": 535,
     "dailyMinutesDown": {
-      "2022-05-18": 0
+      "2022-05-18": 1
     }
   },
   {
@@ -189,18 +189,18 @@
     "icon": "https://favicons.githubusercontent.com/my-gh-stats.androz2091.fr",
     "slug": "my-git-hub-stats-api",
     "status": "down",
-    "uptime": "4.10%",
-    "uptimeDay": "4.10%",
-    "uptimeWeek": "4.10%",
-    "uptimeMonth": "4.10%",
-    "uptimeYear": "4.10%",
+    "uptime": "2.58%",
+    "uptimeDay": "2.58%",
+    "uptimeWeek": "2.58%",
+    "uptimeMonth": "2.58%",
+    "uptimeYear": "2.58%",
     "time": 547,
     "timeDay": 547,
     "timeWeek": 547,
     "timeMonth": 547,
     "timeYear": 547,
     "dailyMinutesDown": {
-      "2022-05-18": 0
+      "2022-05-18": 1
     }
   },
   {
