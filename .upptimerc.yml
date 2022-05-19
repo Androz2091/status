@@ -12,7 +12,7 @@ sites:
   - name: Umami Analytics
     url: https://analytics.androz2091.fr
   - name: Plex
-    url: https://plex.androz2091.fr
+    url: https://plex.androz2091.fr/web/index.html
   - name: Jellyfin
     url: https://jellyfin.androz2091.fr
   - name: Cloud
