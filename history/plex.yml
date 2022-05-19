@@ -1,7 +1,7 @@
-url: https://plex.androz2091.fr
-status: down
-code: 401
-responseTime: 533
-lastUpdated: 2022-05-19T09:36:29.563Z
+url: https://plex.androz2091.fr/web/index.html
+status: up
+code: 200
+responseTime: 585
+lastUpdated: 2022-05-19T16:38:54.168Z
 startTime: Wed May 18 2022 20:01:40 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
