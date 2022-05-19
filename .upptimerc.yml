@@ -24,7 +24,7 @@ sites:
   - name: Hastebin
     url: https://hastebin.androz2091.fr
   - name: My GitHub Stats API
-    url: https://my-gh-stats.androz2091.fr
+    url: https://my-gh-stats.androz2091.fr/stats/random%20username%20
   - name: QBittorrent
     url: https://qbt.androz2091.fr
   - name: Instaddict
