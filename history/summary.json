@@ -22,19 +22,19 @@
     "url": "https://ddpe.androz2091.fr",
     "icon": "https://favicons.githubusercontent.com/ddpe.androz2091.fr",
     "slug": "ddpe",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 194,
-    "timeDay": 140,
-    "timeWeek": 196,
-    "timeMonth": 194,
-    "timeYear": 194,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 196,
+    "timeDay": 186,
+    "timeWeek": 201,
+    "timeMonth": 196,
+    "timeYear": 196,
     "dailyMinutesDown": {
-      "2022-05-30": 0
+      "2022-05-30": 2
     }
   },
   {
@@ -72,7 +72,7 @@
     "timeMonth": 514,
     "timeYear": 514,
     "dailyMinutesDown": {
-      "2022-05-30": 1386,
+      "2022-05-30": 1388,
       "2022-05-29": 1440,
       "2022-05-28": 1440,
       "2022-05-27": 1440,
@@ -244,19 +244,19 @@
     "url": "https://instaddict.androz2091.fr",
     "icon": "https://favicons.githubusercontent.com/instaddict.androz2091.fr",
     "slug": "instaddict",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 217,
-    "timeDay": 69,
-    "timeWeek": 168,
+    "timeDay": 139,
+    "timeWeek": 173,
     "timeMonth": 217,
     "timeYear": 217,
     "dailyMinutesDown": {
-      "2022-05-30": 0
+      "2022-05-30": 2
     }
   },
   {
