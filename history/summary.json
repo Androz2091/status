@@ -70,7 +70,7 @@
     "timeMonth": 486,
     "timeYear": 486,
     "dailyMinutesDown": {
-      "2022-06-10": 869,
+      "2022-06-10": 878,
       "2022-06-09": 1440,
       "2022-06-08": 1440,
       "2022-06-07": 1440,
@@ -289,19 +289,19 @@
     "url": "https://slash-commands-gui.androz2091.fr",
     "icon": "https://favicons.githubusercontent.com/slash-commands-gui.androz2091.fr",
     "slug": "slash-commands-gui",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 322,
-    "timeDay": 253,
-    "timeWeek": 161,
-    "timeMonth": 322,
-    "timeYear": 322,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.36%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 316,
+    "timeDay": 215,
+    "timeWeek": 159,
+    "timeMonth": 316,
+    "timeYear": 316,
     "dailyMinutesDown": {
-      "2022-06-10": 0
+      "2022-06-10": 9
     }
   },
   {
