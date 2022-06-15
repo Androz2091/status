@@ -76,7 +76,7 @@
     "timeMonth": 488,
     "timeYear": 488,
     "dailyMinutesDown": {
-      "2022-06-15": 902,
+      "2022-06-15": 1106,
       "2022-06-14": 1440,
       "2022-06-13": 1440,
       "2022-06-12": 1440,
@@ -113,11 +113,11 @@
     "icon": "https://favicons.githubusercontent.com/plex.androz2091.fr",
     "slug": "plex",
     "status": "up",
-    "uptime": "96.90%",
+    "uptime": "96.91%",
     "uptimeDay": "99.66%",
     "uptimeWeek": "99.95%",
-    "uptimeMonth": "96.90%",
-    "uptimeYear": "96.90%",
+    "uptimeMonth": "96.91%",
+    "uptimeYear": "96.91%",
     "time": 493,
     "timeDay": 441,
     "timeWeek": 501,
@@ -173,19 +173,17 @@
     "icon": "https://favicons.githubusercontent.com/dl.androz2091.fr",
     "slug": "dl",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 509,
     "timeDay": 353,
     "timeWeek": 563,
     "timeMonth": 509,
     "timeYear": 509,
-    "dailyMinutesDown": {
-      "2022-06-15": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Peertube",
@@ -193,19 +191,17 @@
     "icon": "https://favicons.githubusercontent.com/peertube.androz2091.fr",
     "slug": "peertube",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 465,
     "timeDay": 343,
     "timeWeek": 457,
     "timeMonth": 465,
     "timeYear": 465,
-    "dailyMinutesDown": {
-      "2022-06-15": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Hastebin",
@@ -213,19 +209,17 @@
     "icon": "https://favicons.githubusercontent.com/hastebin.androz2091.fr",
     "slug": "hastebin",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 465,
     "timeDay": 363,
     "timeWeek": 452,
     "timeMonth": 465,
     "timeYear": 465,
-    "dailyMinutesDown": {
-      "2022-06-15": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "VaultWarden",
@@ -233,19 +227,17 @@
     "icon": "https://favicons.githubusercontent.com/vault.androz2091.fr",
     "slug": "vault-warden",
     "status": "up",
-    "uptime": "99.93%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 423,
     "timeDay": 333,
     "timeWeek": 423,
     "timeMonth": 423,
     "timeYear": 423,
-    "dailyMinutesDown": {
-      "2022-06-15": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Netdata (HETZ#1)",
@@ -253,19 +245,17 @@
     "icon": "https://favicons.githubusercontent.com/hetz.androz2091.fr",
     "slug": "netdata-hetz-1",
     "status": "up",
-    "uptime": "99.93%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 421,
     "timeDay": 341,
     "timeWeek": 421,
     "timeMonth": 421,
     "timeYear": 421,
-    "dailyMinutesDown": {
-      "2022-06-15": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "My GitHub Stats API",
@@ -273,18 +263,17 @@
     "icon": "https://favicons.githubusercontent.com/my-gh-stats.androz2091.fr",
     "slug": "my-git-hub-stats-api",
     "status": "up",
-    "uptime": "96.89%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "96.89%",
-    "uptimeYear": "96.89%",
+    "uptime": "96.91%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "96.91%",
+    "uptimeYear": "96.91%",
     "time": 785,
     "timeDay": 582,
     "timeWeek": 783,
     "timeMonth": 785,
     "timeYear": 785,
     "dailyMinutesDown": {
-      "2022-06-15": 5,
       "2022-05-19": 1003,
       "2022-05-18": 238
     }
@@ -295,18 +284,17 @@
     "icon": "https://favicons.githubusercontent.com/qbt.androz2091.fr",
     "slug": "q-bittorrent",
     "status": "up",
-    "uptime": "99.87%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "99.87%",
+    "uptime": "99.88%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.88%",
     "time": 467,
     "timeDay": 368,
     "timeWeek": 454,
     "timeMonth": 467,
     "timeYear": 467,
     "dailyMinutesDown": {
-      "2022-06-15": 5,
       "2022-05-27": 48
     }
   },
@@ -316,19 +304,17 @@
     "icon": "https://favicons.githubusercontent.com/instaddict.androz2091.fr",
     "slug": "instaddict",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 273,
     "timeDay": 136,
     "timeWeek": 229,
     "timeMonth": 273,
     "timeYear": 273,
-    "dailyMinutesDown": {
-      "2022-06-15": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Online Love Calc",
@@ -353,19 +339,19 @@
     "url": "https://slash-commands-gui.androz2091.fr",
     "icon": "https://favicons.githubusercontent.com/slash-commands-gui.androz2091.fr",
     "slug": "slash-commands-gui",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 297,
-    "timeDay": 130,
-    "timeWeek": 226,
-    "timeMonth": 297,
-    "timeYear": 297,
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 426,
+    "timeDay": 1518,
+    "timeWeek": 590,
+    "timeMonth": 426,
+    "timeYear": 426,
     "dailyMinutesDown": {
-      "2022-06-15": 5
+      "2022-06-15": 0
     }
   },
   {
@@ -391,19 +377,19 @@
     "url": "https://manage-invite.xyz",
     "icon": "https://favicons.githubusercontent.com/manage-invite.xyz",
     "slug": "manage-invite",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 200,
-    "timeDay": 191,
-    "timeWeek": 184,
-    "timeMonth": 200,
-    "timeYear": 200,
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 386,
+    "timeDay": 1962,
+    "timeWeek": 836,
+    "timeMonth": 386,
+    "timeYear": 386,
     "dailyMinutesDown": {
-      "2022-06-15": 5
+      "2022-06-15": 0
     }
   },
   {
