@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/blog.androz2091.fr",
     "slug": "blog",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 246,
     "timeDay": 610,
     "timeWeek": 346,
     "timeMonth": 246,
     "timeYear": 246,
-    "dailyMinutesDown": {
-      "2022-06-15": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "DDPE",
@@ -25,19 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/ddpe.androz2091.fr",
     "slug": "ddpe",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 342,
     "timeDay": 236,
     "timeWeek": 233,
     "timeMonth": 342,
     "timeYear": 342,
-    "dailyMinutesDown": {
-      "2022-06-15": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Diswho",
@@ -45,19 +41,17 @@
     "icon": "https://favicons.githubusercontent.com/diswho.androz2091.fr",
     "slug": "diswho",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 491,
     "timeDay": 361,
     "timeWeek": 464,
     "timeMonth": 491,
     "timeYear": 491,
-    "dailyMinutesDown": {
-      "2022-06-15": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Umami Analytics",
@@ -76,7 +70,7 @@
     "timeMonth": 488,
     "timeYear": 488,
     "dailyMinutesDown": {
-      "2022-06-15": 1106,
+      "2022-06-15": 1119,
       "2022-06-14": 1440,
       "2022-06-13": 1440,
       "2022-06-12": 1440,
@@ -113,18 +107,17 @@
     "icon": "https://favicons.githubusercontent.com/plex.androz2091.fr",
     "slug": "plex",
     "status": "up",
-    "uptime": "96.91%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "96.91%",
-    "uptimeYear": "96.91%",
+    "uptime": "96.93%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "96.93%",
+    "uptimeYear": "96.93%",
     "time": 493,
     "timeDay": 441,
     "timeWeek": 501,
     "timeMonth": 493,
     "timeYear": 493,
     "dailyMinutesDown": {
-      "2022-06-15": 5,
       "2022-05-19": 999,
       "2022-05-18": 238
     }
@@ -135,19 +128,17 @@
     "icon": "https://favicons.githubusercontent.com/jellyfin.androz2091.fr",
     "slug": "jellyfin",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 631,
     "timeDay": 461,
     "timeWeek": 596,
     "timeMonth": 631,
     "timeYear": 631,
-    "dailyMinutesDown": {
-      "2022-06-15": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Cloud",
@@ -339,19 +330,19 @@
     "url": "https://slash-commands-gui.androz2091.fr",
     "icon": "https://favicons.githubusercontent.com/slash-commands-gui.androz2091.fr",
     "slug": "slash-commands-gui",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 426,
-    "timeDay": 1518,
-    "timeWeek": 590,
-    "timeMonth": 426,
-    "timeYear": 426,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.05%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 421,
+    "timeDay": 1257,
+    "timeWeek": 566,
+    "timeMonth": 421,
+    "timeYear": 421,
     "dailyMinutesDown": {
-      "2022-06-15": 0
+      "2022-06-15": 14
     }
   },
   {
@@ -377,19 +368,19 @@
     "url": "https://manage-invite.xyz",
     "icon": "https://favicons.githubusercontent.com/manage-invite.xyz",
     "slug": "manage-invite",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 386,
-    "timeDay": 1962,
-    "timeWeek": 836,
-    "timeMonth": 386,
-    "timeYear": 386,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.06%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 379,
+    "timeDay": 1596,
+    "timeWeek": 777,
+    "timeMonth": 379,
+    "timeYear": 379,
     "dailyMinutesDown": {
-      "2022-06-15": 0
+      "2022-06-15": 14
     }
   },
   {
