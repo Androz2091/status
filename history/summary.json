@@ -84,7 +84,7 @@
     "timeMonth": 500,
     "timeYear": 493,
     "dailyMinutesDown": {
-      "2022-07-13": 1255,
+      "2022-07-13": 1265,
       "2022-07-12": 1440,
       "2022-07-11": 1440,
       "2022-07-10": 1440,
@@ -401,19 +401,19 @@
     "url": "https://love-calc.androz2091.fr",
     "icon": "https://favicons.githubusercontent.com/love-calc.androz2091.fr",
     "slug": "online-love-calc",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.34%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 118,
-    "timeDay": 156,
+    "timeDay": 157,
     "timeWeek": 154,
-    "timeMonth": 113,
+    "timeMonth": 115,
     "timeYear": 118,
     "dailyMinutesDown": {
-      "2022-07-13": 0
+      "2022-07-13": 10
     }
   },
   {
