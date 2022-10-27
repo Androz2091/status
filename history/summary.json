@@ -88,7 +88,7 @@
     "timeMonth": 516,
     "timeYear": 512,
     "dailyMinutesDown": {
-      "2022-10-27": 619,
+      "2022-10-27": 620,
       "2022-10-26": 1440,
       "2022-10-25": 1440,
       "2022-10-24": 1440,
@@ -767,18 +767,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/tagger.androz2091.fr.ico",
     "slug": "tagger",
     "status": "down",
-    "uptime": "4.24%",
-    "uptimeDay": "4.24%",
-    "uptimeWeek": "4.24%",
-    "uptimeMonth": "4.24%",
-    "uptimeYear": "4.24%",
+    "uptime": "0.97%",
+    "uptimeDay": "0.97%",
+    "uptimeWeek": "0.97%",
+    "uptimeMonth": "0.97%",
+    "uptimeYear": "0.97%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-27": 0
+      "2022-10-27": 1
     }
   }
 ]
