@@ -348,19 +348,19 @@
     "url": "https://radarr.androz2091.fr",
     "icon": "https://icons.duckduckgo.com/ip3/radarr.androz2091.fr.ico",
     "slug": "radarr",
-    "status": "down",
-    "uptime": "98.32%",
-    "uptimeDay": "98.32%",
-    "uptimeWeek": "98.32%",
-    "uptimeMonth": "98.32%",
-    "uptimeYear": "98.32%",
-    "time": 408,
-    "timeDay": 408,
-    "timeWeek": 408,
-    "timeMonth": 408,
-    "timeYear": 408,
+    "status": "up",
+    "uptime": "82.75%",
+    "uptimeDay": "82.75%",
+    "uptimeWeek": "82.75%",
+    "uptimeMonth": "82.75%",
+    "uptimeYear": "82.75%",
+    "time": 341,
+    "timeDay": 341,
+    "timeWeek": 341,
+    "timeMonth": 341,
+    "timeYear": 341,
     "dailyMinutesDown": {
-      "2022-12-17": 1
+      "2022-12-17": 11
     }
   },
   {
@@ -369,18 +369,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/bazarr.androz2091.fr.ico",
     "slug": "bazarr",
     "status": "down",
-    "uptime": "0.04%",
-    "uptimeDay": "0.04%",
-    "uptimeWeek": "0.04%",
-    "uptimeMonth": "0.04%",
-    "uptimeYear": "0.04%",
+    "uptime": "0.02%",
+    "uptimeDay": "0.02%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "0.02%",
+    "uptimeYear": "0.02%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-17": 53
+      "2022-12-17": 63
     }
   },
   {
