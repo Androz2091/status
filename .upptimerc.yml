@@ -13,6 +13,16 @@ sites:
     url: https://analytics.androz2091.fr
   - name: Plex
     url: https://plex.androz2091.fr/web/index.html
+  - name: Overseer
+    url: https://overseer.androz2091.fr
+  - name: Sabnzbd
+    url: https://sabnzbd.androz2091.fr
+  - name: Sonarr
+    url: https://sonarr.androz2091.fr
+  - name: Radarr
+    url: https://radarr.androz2091.fr
+  - name: Bazarr
+    url: https://bazarr.androz2091.fr
   - name: Jellyfin
     url: https://jellyfin.androz2091.fr
   - name: Cloud
@@ -43,6 +53,8 @@ sites:
     url: https://twittycord.com
   - name: ManageInvite
     url: https://manage-invite.xyz
+  - name: ManageInvite API
+    url: https://api.manage-invite.xyz
   - name: Tagger
     url: https://tagger.androz2091.fr
  
