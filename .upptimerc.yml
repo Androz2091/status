@@ -39,12 +39,6 @@ sites:
     url: https://haste.androz2091.fr
   - name: VaultWarden
     url: https://vault.androz2091.fr
-  - name: Netdata (HETZ#1)
-    url: https://hetz.androz2091.fr
-    expectedStatusCodes:
-      - 401
-  - name: My GitHub Stats API
-    url: https://my-gh-stats.androz2091.fr/stats/random%20username%20
   - name: QBittorrent
     url: https://qbt.androz2091.fr
   - name: Instaddict
