@@ -27,14 +27,10 @@ sites:
     url: https://bazarr.androz2091.fr
   - name: Portainer
     url: https://portainer.androz2091.fr
-  - name: Jellyfin
-    url: https://jellyfin.androz2091.fr
   - name: Cloud
     url: https://cloud.androz2091.fr
   - name: DL
     url: https://dl.androz2091.fr
-  - name: Peertube
-    url: https://peertube.androz2091.fr
   - name: Haste
     url: https://haste.androz2091.fr
   - name: VaultWarden
