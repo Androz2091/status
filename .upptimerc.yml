@@ -35,8 +35,8 @@ sites:
     url: https://dl.androz2091.fr
   - name: Peertube
     url: https://peertube.androz2091.fr
-  - name: Hastebin
-    url: https://hastebin.androz2091.fr
+  - name: Haste
+    url: https://haste.androz2091.fr
   - name: VaultWarden
     url: https://vault.androz2091.fr
   - name: Netdata (HETZ#1)
