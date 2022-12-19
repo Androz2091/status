@@ -29,8 +29,8 @@ sites:
     url: https://portainer.androz2091.fr
   - name: Cloud
     url: https://cloud.androz2091.fr
-  - name: DL
-    url: https://dl.androz2091.fr
+  - name: Photos
+    url: https://photos.androz2091.fr
   - name: Haste
     url: https://haste.androz2091.fr
   - name: VaultWarden
