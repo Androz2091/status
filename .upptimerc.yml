@@ -50,7 +50,7 @@ sites:
   - name: ManageInvite API
     url: https://api.manage-invite.xyz
   - name: Tagger
-    url: https://tagger.androz2091.fr
+    url: https://timetagger.androz2091.fr
  
 
 status-website:
