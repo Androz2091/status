@@ -49,6 +49,8 @@ sites:
     url: https://manage-invite.xyz
   - name: ManageInvite API
     url: https://api.manage-invite.xyz
+  - name: (stale) ManageInvite API
+    url: https://dash.manage-invite.xyz
   - name: Tagger
     url: https://timetagger.androz2091.fr
  
