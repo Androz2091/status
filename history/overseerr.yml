@@ -1,7 +1,7 @@
 url: https://overseerr.androz2091.fr
-status: up
-code: 200
-responseTime: 253
-lastUpdated: 2022-12-19T23:05:52.456Z
+status: down
+code: 502
+responseTime: 79
+lastUpdated: 2022-12-20T09:05:38.164Z
 startTime: Sat Dec 17 2022 11:01:53 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
