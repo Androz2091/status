@@ -13,6 +13,8 @@ sites:
     url: https://analytics.androz2091.fr
   - name: Plex
     url: https://plex.androz2091.fr/web/index.html
+  - name: Tautulli
+    url: https://tautulli.androz2091.fr
   - name: Sabnzbd
     url: https://sabnzbd.androz2091.fr
   - name: Overseerr
