@@ -295,18 +295,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/tautulli.androz2091.fr.ico",
     "slug": "tautulli",
     "status": "down",
-    "uptime": "6.38%",
-    "uptimeDay": "6.38%",
-    "uptimeWeek": "6.38%",
-    "uptimeMonth": "6.38%",
-    "uptimeYear": "6.38%",
+    "uptime": "2.88%",
+    "uptimeDay": "2.88%",
+    "uptimeWeek": "2.88%",
+    "uptimeMonth": "2.88%",
+    "uptimeYear": "2.88%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-29": 0
+      "2022-12-29": 1
     }
   },
   {
