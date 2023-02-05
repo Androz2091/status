@@ -14,7 +14,7 @@ sites:
   - name: Plex
     url: https://plex.androz2091.fr/web/index.html
   - name: Tautulli
-    url: https://tautulli.androz2091.fr
+    url: https://tautulli.androz2091.fr/auth/login
   - name: Sabnzbd
     url: https://sabnzbd.androz2091.fr
   - name: Overseerr
