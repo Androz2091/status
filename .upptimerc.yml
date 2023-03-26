@@ -55,6 +55,10 @@ sites:
     url: https://dash.manage-invite.xyz
   - name: Tagger
     url: https://timetagger.androz2091.fr
+  - name: SSHception
+    check: "tcp-ping"
+    url: ssh.androz2091.fr
+    port: 3333
  
 
 status-website:
