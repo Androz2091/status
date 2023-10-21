@@ -330,9 +330,9 @@
     "slug": "cloud",
     "status": "up",
     "uptime": "99.29%",
-    "uptimeDay": "98.27%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "98.84%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "98.99%",
     "time": 265,
     "timeDay": 162,
@@ -340,7 +340,7 @@
     "timeMonth": 170,
     "timeYear": 222,
     "dailyMinutesDown": {
-      "2023-10-21": 25,
+      "2023-10-21": 17,
       "2023-03-05": 692,
       "2023-03-04": 1440,
       "2023-03-03": 1440,
@@ -503,9 +503,9 @@
     "slug": "twittycord",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.35%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "98.87%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 580,
     "timeDay": 430,
@@ -513,7 +513,7 @@
     "timeMonth": 487,
     "timeYear": 541,
     "dailyMinutesDown": {
-      "2023-10-21": 23,
+      "2023-10-21": 16,
       "2023-02-27": 28
     }
   },
@@ -604,10 +604,10 @@
     "url": "ssh.androz2091.fr",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ss-hception",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 60,
@@ -615,6 +615,8 @@
     "timeWeek": 77,
     "timeMonth": 59,
     "timeYear": 60,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-21": 1
+    }
   }
 ]
