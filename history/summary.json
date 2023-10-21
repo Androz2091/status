@@ -330,9 +330,9 @@
     "slug": "cloud",
     "status": "up",
     "uptime": "99.29%",
-    "uptimeDay": "98.11%",
-    "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "98.84%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "98.99%",
     "time": 261,
     "timeDay": 144,
@@ -340,7 +340,7 @@
     "timeMonth": 165,
     "timeYear": 221,
     "dailyMinutesDown": {
-      "2023-10-21": 28,
+      "2023-10-21": 17,
       "2023-03-05": 692,
       "2023-03-04": 1440,
       "2023-03-03": 1440,
@@ -355,11 +355,11 @@
     "url": "https://photos.androz2091.fr",
     "icon": "https://icons.duckduckgo.com/ip3/photos.androz2091.fr.ico",
     "slug": "photos",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "93.75%",
-    "uptimeWeek": "99.11%",
-    "uptimeMonth": "99.79%",
+    "uptimeDay": "94.40%",
+    "uptimeWeek": "99.20%",
+    "uptimeMonth": "99.82%",
     "uptimeYear": "99.97%",
     "time": 197,
     "timeDay": 290,
@@ -367,7 +367,7 @@
     "timeMonth": 271,
     "timeYear": 197,
     "dailyMinutesDown": {
-      "2023-10-21": 90,
+      "2023-10-21": 81,
       "2023-02-27": 33
     }
   },
@@ -503,9 +503,9 @@
     "slug": "twittycord",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.20%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "98.87%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 593,
     "timeDay": 1290,
@@ -513,7 +513,7 @@
     "timeMonth": 667,
     "timeYear": 558,
     "dailyMinutesDown": {
-      "2023-10-21": 26,
+      "2023-10-21": 16,
       "2023-02-27": 28
     }
   },
