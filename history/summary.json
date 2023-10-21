@@ -73,7 +73,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.03%",
+    "uptimeYear": "96.04%",
     "time": 347,
     "timeDay": 198,
     "timeWeek": 286,
@@ -127,11 +127,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/tautulli.androz2091.fr.ico",
     "slug": "tautulli",
     "status": "up",
-    "uptime": "87.28%",
+    "uptime": "87.29%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "87.28%",
+    "uptimeYear": "87.29%",
     "time": 244,
     "timeDay": 258,
     "timeWeek": 242,
@@ -604,11 +604,11 @@
     "url": "ssh.androz2091.fr",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ss-hception",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 60,
     "timeDay": 67,
@@ -616,7 +616,7 @@
     "timeMonth": 59,
     "timeYear": 60,
     "dailyMinutesDown": {
-      "2023-10-21": 1
+      "2023-10-21": 10
     }
   }
 ]
