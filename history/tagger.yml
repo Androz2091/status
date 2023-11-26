@@ -1,7 +1,7 @@
 url: https://timetagger.androz2091.fr
-status: up
-code: 200
-responseTime: 365
-lastUpdated: 2023-11-25T23:06:11.639Z
+status: down
+code: 502
+responseTime: 318
+lastUpdated: 2023-11-26T13:29:19.084Z
 startTime: 2022-10-27T10:19:17.000Z
 generator: Upptime <https://github.com/upptime/upptime>
