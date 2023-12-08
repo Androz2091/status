@@ -1,7 +1,7 @@
 url: https://sabnzbd.androz2091.fr
-status: up
-code: 200
-responseTime: 511
-lastUpdated: 2023-12-08T19:35:34.698Z
+status: down
+code: 502
+responseTime: 191
+lastUpdated: 2023-12-08T21:08:50.597Z
 startTime: 2022-12-17T10:10:13.000Z
 generator: Upptime <https://github.com/upptime/upptime>
