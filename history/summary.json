@@ -435,19 +435,19 @@
     "url": "https://love-calc.androz2091.fr",
     "icon": "https://icons.duckduckgo.com/ip3/love-calc.androz2091.fr.ico",
     "slug": "online-love-calc",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.25%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 121,
-    "timeDay": 112,
-    "timeWeek": 81,
-    "timeMonth": 89,
-    "timeYear": 108,
+    "timeDay": 133,
+    "timeWeek": 93,
+    "timeMonth": 93,
+    "timeYear": 109,
     "dailyMinutesDown": {
-      "2024-01-17": 0
+      "2024-01-17": 11
     }
   },
   {
