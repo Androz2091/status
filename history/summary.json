@@ -120,7 +120,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "94.90%",
+    "uptimeYear": "94.91%",
     "time": 236,
     "timeDay": 241,
     "timeWeek": 202,
@@ -435,19 +435,19 @@
     "url": "https://love-calc.androz2091.fr",
     "icon": "https://icons.duckduckgo.com/ip3/love-calc.androz2091.fr.ico",
     "slug": "online-love-calc",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 121,
-    "timeDay": 111,
-    "timeWeek": 73,
-    "timeMonth": 87,
+    "timeDay": 104,
+    "timeWeek": 75,
+    "timeMonth": 88,
     "timeYear": 108,
     "dailyMinutesDown": {
-      "2024-01-17": 1
+      "2024-01-17": 9
     }
   },
   {
