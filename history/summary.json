@@ -413,18 +413,20 @@
     "url": "https://slash-commands-gui.androz2091.fr",
     "icon": "https://icons.duckduckgo.com/ip3/slash-commands-gui.androz2091.fr.ico",
     "slug": "slash-commands-gui",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 234,
-    "timeDay": 413,
-    "timeWeek": 153,
-    "timeMonth": 170,
-    "timeYear": 199,
-    "dailyMinutesDown": {}
+    "time": 237,
+    "timeDay": 1247,
+    "timeWeek": 394,
+    "timeMonth": 231,
+    "timeYear": 204,
+    "dailyMinutesDown": {
+      "2024-03-16": 2
+    }
   },
   {
     "name": "Twittycord",
