@@ -275,7 +275,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud.androz2091.fr.ico",
     "slug": "cloud",
     "status": "up",
-    "uptime": "99.44%",
+    "uptime": "99.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -377,18 +377,20 @@
     "url": "https://instaddict.androz2091.fr",
     "icon": "https://icons.duckduckgo.com/ip3/instaddict.androz2091.fr.ico",
     "slug": "instaddict",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 240,
-    "timeDay": 169,
-    "timeWeek": 178,
-    "timeMonth": 189,
-    "timeYear": 212,
-    "dailyMinutesDown": {}
+    "time": 243,
+    "timeDay": 848,
+    "timeWeek": 347,
+    "timeMonth": 232,
+    "timeYear": 216,
+    "dailyMinutesDown": {
+      "2024-03-16": 0
+    }
   },
   {
     "name": "Online Love Calc",
@@ -454,18 +456,16 @@
     "slug": "manage-invite",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.16%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 253,
     "timeDay": 794,
     "timeWeek": 333,
     "timeMonth": 252,
     "timeYear": 218,
-    "dailyMinutesDown": {
-      "2024-03-16": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "ManageInvite API",
@@ -494,17 +494,16 @@
     "slug": "stale-manage-invite-api",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 256,
     "timeDay": 906,
     "timeWeek": 395,
     "timeMonth": 296,
     "timeYear": 255,
     "dailyMinutesDown": {
-      "2024-03-16": 12,
       "2023-11-04": 17
     }
   },
