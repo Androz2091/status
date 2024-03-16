@@ -70,7 +70,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/analytics.androz2091.fr.ico",
     "slug": "umami-analytics",
     "status": "up",
-    "uptime": "74.51%",
+    "uptime": "74.52%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -377,19 +377,19 @@
     "url": "https://instaddict.androz2091.fr",
     "icon": "https://icons.duckduckgo.com/ip3/instaddict.androz2091.fr.ico",
     "slug": "instaddict",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 243,
-    "timeDay": 848,
-    "timeWeek": 347,
-    "timeMonth": 232,
-    "timeYear": 216,
+    "timeDay": 583,
+    "timeWeek": 314,
+    "timeMonth": 227,
+    "timeYear": 215,
     "dailyMinutesDown": {
-      "2024-03-16": 0
+      "2024-03-16": 9
     }
   },
   {
