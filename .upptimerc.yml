@@ -31,11 +31,11 @@ sites:
     url: https://bazarr.androz2091.fr
   - name: Portainer
     url: https://portainer.androz2091.fr
-  - name: Cloud
+  - name: FileBrowser
     url: https://cloud.androz2091.fr
-  - name: Photos
+  - name: Immich
     url: https://photos.androz2091.fr
-  - name: Haste
+  - name: HasteServer
     url: https://haste.androz2091.fr
   - name: VaultWarden
     url: https://vault.androz2091.fr
