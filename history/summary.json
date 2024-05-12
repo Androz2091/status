@@ -557,18 +557,20 @@
     "url": "https://monica.androz2091.fr",
     "icon": "https://icons.duckduckgo.com/ip3/monica.androz2091.fr.ico",
     "slug": "monica",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 445,
-    "timeDay": 445,
-    "timeWeek": 445,
-    "timeMonth": 445,
-    "timeYear": 445,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "98.93%",
+    "uptimeDay": "98.93%",
+    "uptimeWeek": "98.93%",
+    "uptimeMonth": "98.93%",
+    "uptimeYear": "98.93%",
+    "time": 267,
+    "timeDay": 267,
+    "timeWeek": 267,
+    "timeMonth": 267,
+    "timeYear": 267,
+    "dailyMinutesDown": {
+      "2024-05-12": 1
+    }
   },
   {
     "name": "SSHception",
