@@ -59,6 +59,8 @@ sites:
     url: https://timetagger.androz2091.fr
   - name: Mealie
     url: https://recipes.androz2091.fr
+  - name: Monica
+    url: https://monica.androz2091.fr
   - name: SSHception
     check: "tcp-ping"
     url: ssh.androz2091.fr
