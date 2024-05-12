@@ -557,19 +557,19 @@
     "url": "https://monica.androz2091.fr",
     "icon": "https://icons.duckduckgo.com/ip3/monica.androz2091.fr.ico",
     "slug": "monica",
-    "status": "down",
-    "uptime": "98.93%",
-    "uptimeDay": "98.93%",
-    "uptimeWeek": "98.93%",
-    "uptimeMonth": "98.93%",
-    "uptimeYear": "98.93%",
-    "time": 267,
-    "timeDay": 267,
-    "timeWeek": 267,
-    "timeMonth": 267,
-    "timeYear": 267,
+    "status": "up",
+    "uptime": "72.76%",
+    "uptimeDay": "72.76%",
+    "uptimeWeek": "72.76%",
+    "uptimeMonth": "72.76%",
+    "uptimeYear": "72.76%",
+    "time": 289,
+    "timeDay": 289,
+    "timeWeek": 289,
+    "timeMonth": 289,
+    "timeYear": 289,
     "dailyMinutesDown": {
-      "2024-05-12": 1
+      "2024-05-12": 17
     }
   },
   {
