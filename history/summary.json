@@ -192,10 +192,10 @@
     "url": "https://sonarr.androz2091.fr",
     "icon": "https://icons.duckduckgo.com/ip3/sonarr.androz2091.fr.ico",
     "slug": "sonarr",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 273,
@@ -204,6 +204,7 @@
     "timeMonth": 252,
     "timeYear": 269,
     "dailyMinutesDown": {
+      "2024-07-07": 2,
       "2023-11-04": 17
     }
   },
