@@ -1,7 +1,7 @@
 url: https://dash.manage-invite.xyz
-status: up
-code: 200
-responseTime: 206
-lastUpdated: 2024-08-31T23:05:58.772Z
+status: down
+code: 502
+responseTime: 98
+lastUpdated: 2024-09-01T10:51:25.905Z
 startTime: 2022-12-19T15:18:26.000Z
 generator: Upptime <https://github.com/upptime/upptime>
