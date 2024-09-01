@@ -66,9 +66,9 @@
     "slug": "diswho",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "98.19%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "97.42%",
+    "uptimeWeek": "99.63%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
     "time": 229,
     "timeDay": 271,
@@ -76,7 +76,7 @@
     "timeMonth": 231,
     "timeYear": 225,
     "dailyMinutesDown": {
-      "2024-09-01": 26,
+      "2024-09-01": 37,
       "2023-11-04": 17,
       "2023-09-17": 24,
       "2023-09-16": 0
@@ -89,9 +89,9 @@
     "slug": "umami-analytics",
     "status": "down",
     "uptime": "79.67%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.22%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
     "time": 222,
     "timeDay": 205,
@@ -99,7 +99,7 @@
     "timeMonth": 215,
     "timeYear": 216,
     "dailyMinutesDown": {
-      "2024-09-01": 0,
+      "2024-09-01": 11,
       "2023-11-04": 17,
       "2023-09-17": 24,
       "2023-09-16": 0
@@ -131,18 +131,19 @@
     "url": "https://tautulli.androz2091.fr/auth/login",
     "icon": "https://icons.duckduckgo.com/ip3/tautulli.androz2091.fr.ico",
     "slug": "tautulli",
-    "status": "up",
+    "status": "down",
     "uptime": "93.85%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 217,
-    "timeDay": 215,
-    "timeWeek": 195,
-    "timeMonth": 205,
+    "timeDay": 160,
+    "timeWeek": 184,
+    "timeMonth": 202,
     "timeYear": 209,
     "dailyMinutesDown": {
+      "2024-09-01": 0,
       "2023-11-04": 17
     }
   },
@@ -272,18 +273,19 @@
     "url": "https://portainer.androz2091.fr",
     "icon": "https://icons.duckduckgo.com/ip3/portainer.androz2091.fr.ico",
     "slug": "portainer",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 201,
-    "timeDay": 139,
+    "timeDay": 133,
     "timeWeek": 123,
-    "timeMonth": 227,
+    "timeMonth": 224,
     "timeYear": 196,
     "dailyMinutesDown": {
+      "2024-09-01": 0,
       "2023-11-04": 17
     }
   },
@@ -311,18 +313,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/photos.androz2091.fr.ico",
     "slug": "immich",
     "status": "down",
-    "uptime": "70.84%",
+    "uptime": "70.83%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "70.84%",
+    "uptimeYear": "70.83%",
     "time": 157,
     "timeDay": 91,
     "timeWeek": 97,
     "timeMonth": 151,
     "timeYear": 157,
     "dailyMinutesDown": {
-      "2024-09-01": 660,
+      "2024-09-01": 672,
       "2024-08-31": 1440,
       "2024-08-30": 1440,
       "2024-08-29": 1440,
@@ -381,9 +383,9 @@
     "slug": "haste-server",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.78%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "98.01%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
     "time": 183,
     "timeDay": 207,
@@ -391,7 +393,7 @@
     "timeMonth": 174,
     "timeYear": 183,
     "dailyMinutesDown": {
-      "2024-09-01": 18
+      "2024-09-01": 29
     }
   },
   {
@@ -419,18 +421,19 @@
     "url": "https://qbt.androz2091.fr",
     "icon": "https://icons.duckduckgo.com/ip3/qbt.androz2091.fr.ico",
     "slug": "q-bittorrent",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 193,
-    "timeDay": 115,
-    "timeWeek": 131,
-    "timeMonth": 173,
+    "timeDay": 119,
+    "timeWeek": 130,
+    "timeMonth": 171,
     "timeYear": 181,
     "dailyMinutesDown": {
+      "2024-09-01": 0,
       "2023-11-04": 17
     }
   },
@@ -495,9 +498,9 @@
     "slug": "twittycord",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.20%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
     "time": 535,
     "timeDay": 515,
@@ -505,7 +508,7 @@
     "timeMonth": 528,
     "timeYear": 547,
     "dailyMinutesDown": {
-      "2024-09-01": 0,
+      "2024-09-01": 11,
       "2023-11-04": 17,
       "2023-10-21": 16
     }
@@ -535,9 +538,9 @@
     "slug": "manage-invite-api",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "98.59%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 188,
     "timeDay": 124,
@@ -545,7 +548,7 @@
     "timeMonth": 159,
     "timeYear": 182,
     "dailyMinutesDown": {
-      "2024-09-01": 9,
+      "2024-09-01": 20,
       "2023-11-04": 17
     }
   },
@@ -556,9 +559,9 @@
     "slug": "stale-manage-invite-api",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "98.59%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 252,
     "timeDay": 152,
@@ -566,7 +569,7 @@
     "timeMonth": 201,
     "timeYear": 233,
     "dailyMinutesDown": {
-      "2024-09-01": 9,
+      "2024-09-01": 20,
       "2023-11-04": 17
     }
   },
@@ -575,18 +578,19 @@
     "url": "https://timetagger.androz2091.fr",
     "icon": "https://icons.duckduckgo.com/ip3/timetagger.androz2091.fr.ico",
     "slug": "tagger",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.74%",
     "time": 232,
-    "timeDay": 157,
-    "timeWeek": 161,
-    "timeMonth": 214,
+    "timeDay": 133,
+    "timeWeek": 154,
+    "timeMonth": 211,
     "timeYear": 223,
     "dailyMinutesDown": {
+      "2024-09-01": 1,
       "2024-07-15": 576,
       "2024-07-14": 699,
       "2023-11-04": 112
@@ -635,9 +639,9 @@
     "url": "ssh.androz2091.fr",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ss-hception",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -646,6 +650,8 @@
     "timeWeek": 20,
     "timeMonth": 33,
     "timeYear": 44,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-01": 1
+    }
   }
 ]
