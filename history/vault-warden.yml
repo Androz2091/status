@@ -1,7 +1,7 @@
 url: https://vault.androz2091.fr
-status: up
-code: 200
-responseTime: 105
-lastUpdated: 2024-08-31T23:05:55.446Z
+status: down
+code: 502
+responseTime: 294
+lastUpdated: 2024-09-01T11:21:54.330Z
 startTime: 2022-06-10T15:18:10.000Z
 generator: Upptime <https://github.com/upptime/upptime>
