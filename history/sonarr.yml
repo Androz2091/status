@@ -1,7 +1,7 @@
 url: https://sonarr.androz2091.fr
-status: up
-code: 200
-responseTime: 308
-lastUpdated: 2024-08-31T23:05:53.058Z
+status: down
+code: 502
+responseTime: 283
+lastUpdated: 2024-09-01T11:21:44.697Z
 startTime: 2022-12-17T10:10:14.000Z
 generator: Upptime <https://github.com/upptime/upptime>
