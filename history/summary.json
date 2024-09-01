@@ -27,18 +27,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/next.androz2091.fr.ico",
     "slug": "next-cloud",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "98.80%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
     "time": 450,
     "timeDay": 351,
     "timeWeek": 396,
     "timeMonth": 434,
     "timeYear": 450,
     "dailyMinutesDown": {
-      "2024-09-01": 1
+      "2024-09-01": 17
     }
   },
   {
@@ -68,9 +68,9 @@
     "slug": "diswho",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "96.67%",
-    "uptimeWeek": "99.52%",
-    "uptimeMonth": "99.89%",
+    "uptimeDay": "95.51%",
+    "uptimeWeek": "99.36%",
+    "uptimeMonth": "99.85%",
     "uptimeYear": "99.98%",
     "time": 229,
     "timeDay": 271,
@@ -78,7 +78,7 @@
     "timeMonth": 231,
     "timeYear": 225,
     "dailyMinutesDown": {
-      "2024-09-01": 48,
+      "2024-09-01": 65,
       "2023-11-04": 17,
       "2023-09-17": 24,
       "2023-09-16": 0
@@ -91,17 +91,17 @@
     "slug": "umami-analytics",
     "status": "down",
     "uptime": "79.67%",
-    "uptimeDay": "98.46%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "97.30%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.98%",
     "time": 222,
     "timeDay": 205,
     "timeWeek": 179,
     "timeMonth": 215,
     "timeYear": 216,
     "dailyMinutesDown": {
-      "2024-09-01": 22,
+      "2024-09-01": 39,
       "2023-11-04": 17,
       "2023-09-17": 24,
       "2023-09-16": 0
@@ -114,9 +114,9 @@
     "slug": "plex",
     "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.79%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 249,
     "timeDay": 205,
@@ -124,7 +124,7 @@
     "timeMonth": 223,
     "timeYear": 252,
     "dailyMinutesDown": {
-      "2024-09-01": 1,
+      "2024-09-01": 17,
       "2023-11-04": 17,
       "2023-09-17": 23
     }
@@ -136,9 +136,9 @@
     "slug": "tautulli",
     "status": "down",
     "uptime": "93.85%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "98.06%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 217,
     "timeDay": 160,
@@ -146,7 +146,7 @@
     "timeMonth": 202,
     "timeYear": 209,
     "dailyMinutesDown": {
-      "2024-09-01": 11,
+      "2024-09-01": 28,
       "2023-11-04": 17
     }
   },
@@ -157,9 +157,9 @@
     "slug": "sabnzbd",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.79%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 274,
     "timeDay": 224,
@@ -167,7 +167,7 @@
     "timeMonth": 240,
     "timeYear": 267,
     "dailyMinutesDown": {
-      "2024-09-01": 1,
+      "2024-09-01": 17,
       "2023-12-18": 20,
       "2023-11-04": 17
     }
@@ -178,18 +178,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/overseerr.androz2091.fr.ico",
     "slug": "overseerr",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "98.79%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
     "time": 382,
     "timeDay": 259,
     "timeWeek": 305,
     "timeMonth": 336,
     "timeYear": 374,
     "dailyMinutesDown": {
-      "2024-09-01": 1,
+      "2024-09-01": 17,
       "2023-11-04": 17
     }
   },
@@ -199,18 +199,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/sonarr.androz2091.fr.ico",
     "slug": "sonarr",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "98.79%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
     "time": 320,
     "timeDay": 296,
     "timeWeek": 231,
     "timeMonth": 254,
     "timeYear": 329,
     "dailyMinutesDown": {
-      "2024-09-01": 1,
+      "2024-09-01": 17,
       "2023-11-04": 17
     }
   },
@@ -220,18 +220,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/radarr.androz2091.fr.ico",
     "slug": "radarr",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "98.80%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
     "time": 253,
     "timeDay": 220,
     "timeWeek": 194,
     "timeMonth": 225,
     "timeYear": 244,
     "dailyMinutesDown": {
-      "2024-09-01": 1,
+      "2024-09-01": 17,
       "2023-11-04": 17
     }
   },
@@ -242,17 +242,17 @@
     "slug": "bazarr",
     "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "98.80%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
     "time": 200,
     "timeDay": 207,
     "timeWeek": 160,
     "timeMonth": 179,
     "timeYear": 191,
     "dailyMinutesDown": {
-      "2024-09-01": 1,
+      "2024-09-01": 17,
       "2023-11-04": 17
     }
   },
@@ -262,18 +262,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/bazarr.androz2091.fr.ico",
     "slug": "jackett",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "98.80%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
     "time": 58,
     "timeDay": 62,
     "timeWeek": 42,
     "timeMonth": 51,
     "timeYear": 56,
     "dailyMinutesDown": {
-      "2024-09-01": 1,
+      "2024-09-01": 17,
       "2023-11-04": 17
     }
   },
@@ -284,9 +284,9 @@
     "slug": "portainer",
     "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "99.21%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "98.05%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 201,
     "timeDay": 133,
@@ -294,7 +294,7 @@
     "timeMonth": 224,
     "timeYear": 196,
     "dailyMinutesDown": {
-      "2024-09-01": 11,
+      "2024-09-01": 28,
       "2023-11-04": 17
     }
   },
@@ -333,7 +333,7 @@
     "timeMonth": 151,
     "timeYear": 157,
     "dailyMinutesDown": {
-      "2024-09-01": 682,
+      "2024-09-01": 699,
       "2024-08-31": 1440,
       "2024-08-30": 1440,
       "2024-08-29": 1440,
@@ -392,9 +392,9 @@
     "slug": "haste-server",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "97.25%",
-    "uptimeWeek": "99.61%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "96.09%",
+    "uptimeWeek": "99.44%",
+    "uptimeMonth": "99.87%",
     "uptimeYear": "99.98%",
     "time": 183,
     "timeDay": 207,
@@ -402,7 +402,7 @@
     "timeMonth": 174,
     "timeYear": 183,
     "dailyMinutesDown": {
-      "2024-09-01": 40
+      "2024-09-01": 56
     }
   },
   {
@@ -412,17 +412,17 @@
     "slug": "vault-warden",
     "status": "down",
     "uptime": "96.56%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "98.79%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
     "time": 185,
     "timeDay": 200,
     "timeWeek": 147,
     "timeMonth": 174,
     "timeYear": 179,
     "dailyMinutesDown": {
-      "2024-09-01": 1,
+      "2024-09-01": 17,
       "2023-11-04": 17
     }
   },
@@ -433,9 +433,9 @@
     "slug": "q-bittorrent",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "99.21%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "98.04%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 193,
     "timeDay": 119,
@@ -443,7 +443,7 @@
     "timeMonth": 171,
     "timeYear": 181,
     "dailyMinutesDown": {
-      "2024-09-01": 11,
+      "2024-09-01": 28,
       "2023-11-04": 17
     }
   },
@@ -508,9 +508,9 @@
     "slug": "twittycord",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.44%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "97.27%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
     "time": 535,
     "timeDay": 515,
@@ -518,7 +518,7 @@
     "timeMonth": 528,
     "timeYear": 547,
     "dailyMinutesDown": {
-      "2024-09-01": 22,
+      "2024-09-01": 39,
       "2023-11-04": 17,
       "2023-10-21": 16
     }
@@ -548,9 +548,9 @@
     "slug": "manage-invite-api",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "97.83%",
-    "uptimeWeek": "99.69%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "96.66%",
+    "uptimeWeek": "99.52%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.99%",
     "time": 188,
     "timeDay": 124,
@@ -558,7 +558,7 @@
     "timeMonth": 159,
     "timeYear": 182,
     "dailyMinutesDown": {
-      "2024-09-01": 31,
+      "2024-09-01": 48,
       "2023-11-04": 17
     }
   },
@@ -569,9 +569,9 @@
     "slug": "stale-manage-invite-api",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "97.83%",
-    "uptimeWeek": "99.69%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "96.66%",
+    "uptimeWeek": "99.52%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.99%",
     "time": 252,
     "timeDay": 152,
@@ -579,7 +579,7 @@
     "timeMonth": 201,
     "timeYear": 233,
     "dailyMinutesDown": {
-      "2024-09-01": 31,
+      "2024-09-01": 48,
       "2023-11-04": 17
     }
   },
@@ -590,9 +590,9 @@
     "slug": "tagger",
     "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "98.03%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.73%",
     "time": 232,
     "timeDay": 133,
@@ -600,7 +600,7 @@
     "timeMonth": 211,
     "timeYear": 223,
     "dailyMinutesDown": {
-      "2024-09-01": 11,
+      "2024-09-01": 28,
       "2024-07-15": 576,
       "2024-07-14": 699,
       "2023-11-04": 112
@@ -612,18 +612,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/recipes.androz2091.fr.ico",
     "slug": "mealie",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "98.78%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
     "time": 179,
     "timeDay": 220,
     "timeWeek": 163,
     "timeMonth": 179,
     "timeYear": 179,
     "dailyMinutesDown": {
-      "2024-09-01": 1
+      "2024-09-01": 18
     }
   },
   {
@@ -632,18 +632,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/monica.androz2091.fr.ico",
     "slug": "monica",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.98%",
+    "uptimeDay": "98.78%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.98%",
     "time": 419,
     "timeDay": 314,
     "timeWeek": 342,
     "timeMonth": 403,
     "timeYear": 419,
     "dailyMinutesDown": {
-      "2024-09-01": 1,
+      "2024-09-01": 18,
       "2024-05-12": 17
     }
   },
@@ -652,19 +652,19 @@
     "url": "ssh.androz2091.fr",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ss-hception",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "98.08%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.99%",
     "time": 48,
-    "timeDay": 20,
-    "timeWeek": 20,
-    "timeMonth": 33,
+    "timeDay": 44,
+    "timeWeek": 26,
+    "timeMonth": 34,
     "timeYear": 44,
     "dailyMinutesDown": {
-      "2024-09-01": 11
+      "2024-09-01": 28
     }
   }
 ]
