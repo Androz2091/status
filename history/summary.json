@@ -29,8 +29,8 @@
     "status": "down",
     "uptime": "99.31%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "83.31%",
-    "uptimeMonth": "96.16%",
+    "uptimeWeek": "83.22%",
+    "uptimeMonth": "96.14%",
     "uptimeYear": "99.31%",
     "time": 450,
     "timeDay": 0,
@@ -38,7 +38,7 @@
     "timeMonth": 435,
     "timeYear": 450,
     "dailyMinutesDown": {
-      "2024-09-02": 924,
+      "2024-09-02": 933,
       "2024-09-01": 758
     }
   },
@@ -70,8 +70,8 @@
     "status": "down",
     "uptime": "99.84%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "82.84%",
-    "uptimeMonth": "96.05%",
+    "uptimeWeek": "82.75%",
+    "uptimeMonth": "96.03%",
     "uptimeYear": "99.66%",
     "time": 229,
     "timeDay": 0,
@@ -79,7 +79,7 @@
     "timeMonth": 235,
     "timeYear": 225,
     "dailyMinutesDown": {
-      "2024-09-02": 924,
+      "2024-09-02": 933,
       "2024-09-01": 806,
       "2023-11-04": 17,
       "2023-09-17": 24,
@@ -94,8 +94,8 @@
     "status": "down",
     "uptime": "79.56%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "83.09%",
-    "uptimeMonth": "96.11%",
+    "uptimeWeek": "83.00%",
+    "uptimeMonth": "96.09%",
     "uptimeYear": "99.67%",
     "time": 222,
     "timeDay": 0,
@@ -103,7 +103,7 @@
     "timeMonth": 216,
     "timeYear": 216,
     "dailyMinutesDown": {
-      "2024-09-02": 924,
+      "2024-09-02": 933,
       "2024-09-01": 780,
       "2023-11-04": 17,
       "2023-09-17": 24,
@@ -117,7 +117,7 @@
     "slug": "plex",
     "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "87.03%",
+    "uptimeDay": "87.67%",
     "uptimeWeek": "95.74%",
     "uptimeMonth": "99.02%",
     "uptimeYear": "99.91%",
@@ -140,8 +140,8 @@
     "status": "down",
     "uptime": "93.67%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "83.20%",
-    "uptimeMonth": "96.13%",
+    "uptimeWeek": "83.11%",
+    "uptimeMonth": "96.11%",
     "uptimeYear": "99.67%",
     "time": 216,
     "timeDay": 0,
@@ -149,7 +149,7 @@
     "timeMonth": 202,
     "timeYear": 209,
     "dailyMinutesDown": {
-      "2024-09-02": 924,
+      "2024-09-02": 933,
       "2024-09-01": 769,
       "2023-11-04": 17
     }
@@ -161,7 +161,7 @@
     "slug": "sabnzbd",
     "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "30.34%",
+    "uptimeDay": "30.97%",
     "uptimeWeek": "87.64%",
     "uptimeMonth": "97.16%",
     "uptimeYear": "99.76%",
@@ -185,16 +185,16 @@
     "status": "down",
     "uptime": "99.81%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "83.31%",
-    "uptimeMonth": "96.16%",
-    "uptimeYear": "99.68%",
+    "uptimeWeek": "83.22%",
+    "uptimeMonth": "96.14%",
+    "uptimeYear": "99.67%",
     "time": 382,
     "timeDay": 0,
     "timeWeek": 304,
     "timeMonth": 341,
     "timeYear": 374,
     "dailyMinutesDown": {
-      "2024-09-02": 924,
+      "2024-09-02": 934,
       "2024-09-01": 758,
       "2023-11-04": 17
     }
@@ -207,16 +207,16 @@
     "status": "down",
     "uptime": "99.81%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "83.31%",
-    "uptimeMonth": "96.16%",
-    "uptimeYear": "99.68%",
+    "uptimeWeek": "83.22%",
+    "uptimeMonth": "96.14%",
+    "uptimeYear": "99.67%",
     "time": 320,
     "timeDay": 0,
     "timeWeek": 243,
     "timeMonth": 255,
     "timeYear": 329,
     "dailyMinutesDown": {
-      "2024-09-02": 924,
+      "2024-09-02": 934,
       "2024-09-01": 758,
       "2023-11-04": 17
     }
@@ -228,7 +228,7 @@
     "slug": "radarr",
     "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "41.93%",
+    "uptimeDay": "42.57%",
     "uptimeWeek": "89.30%",
     "uptimeMonth": "97.54%",
     "uptimeYear": "99.79%",
@@ -251,16 +251,16 @@
     "status": "down",
     "uptime": "99.76%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "83.31%",
-    "uptimeMonth": "96.16%",
-    "uptimeYear": "99.68%",
+    "uptimeWeek": "83.22%",
+    "uptimeMonth": "96.14%",
+    "uptimeYear": "99.67%",
     "time": 200,
     "timeDay": 0,
     "timeWeek": 157,
     "timeMonth": 178,
     "timeYear": 191,
     "dailyMinutesDown": {
-      "2024-09-02": 924,
+      "2024-09-02": 934,
       "2024-09-01": 758,
       "2023-11-04": 17
     }
@@ -273,16 +273,16 @@
     "status": "down",
     "uptime": "99.81%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "83.31%",
-    "uptimeMonth": "96.16%",
-    "uptimeYear": "99.68%",
+    "uptimeWeek": "83.22%",
+    "uptimeMonth": "96.14%",
+    "uptimeYear": "99.67%",
     "time": 58,
     "timeDay": 0,
     "timeWeek": 43,
     "timeMonth": 51,
     "timeYear": 56,
     "dailyMinutesDown": {
-      "2024-09-02": 924,
+      "2024-09-02": 934,
       "2024-09-01": 758,
       "2023-11-04": 17
     }
@@ -295,8 +295,8 @@
     "status": "down",
     "uptime": "99.76%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "83.20%",
-    "uptimeMonth": "96.13%",
+    "uptimeWeek": "83.11%",
+    "uptimeMonth": "96.11%",
     "uptimeYear": "99.67%",
     "time": 201,
     "timeDay": 0,
@@ -304,7 +304,7 @@
     "timeMonth": 225,
     "timeYear": 196,
     "dailyMinutesDown": {
-      "2024-09-02": 924,
+      "2024-09-02": 934,
       "2024-09-01": 769,
       "2023-11-04": 17
     }
@@ -316,7 +316,7 @@
     "slug": "file-browser",
     "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "88.72%",
+    "uptimeDay": "89.35%",
     "uptimeWeek": "96.29%",
     "uptimeMonth": "99.15%",
     "uptimeYear": "99.85%",
@@ -346,7 +346,7 @@
     "timeMonth": 153,
     "timeYear": 157,
     "dailyMinutesDown": {
-      "2024-09-02": 924,
+      "2024-09-02": 934,
       "2024-09-01": 1440,
       "2024-08-31": 1440,
       "2024-08-30": 1440,
@@ -407,8 +407,8 @@
     "status": "down",
     "uptime": "99.29%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "82.92%",
-    "uptimeMonth": "96.07%",
+    "uptimeWeek": "82.83%",
+    "uptimeMonth": "96.05%",
     "uptimeYear": "99.29%",
     "time": 183,
     "timeDay": 0,
@@ -416,7 +416,7 @@
     "timeMonth": 177,
     "timeYear": 183,
     "dailyMinutesDown": {
-      "2024-09-02": 925,
+      "2024-09-02": 934,
       "2024-09-01": 797
     }
   },
@@ -427,7 +427,7 @@
     "slug": "vault-warden",
     "status": "up",
     "uptime": "96.53%",
-    "uptimeDay": "88.72%",
+    "uptimeDay": "89.35%",
     "uptimeWeek": "95.98%",
     "uptimeMonth": "99.08%",
     "uptimeYear": "99.92%",
@@ -446,19 +446,19 @@
     "url": "https://qbt.androz2091.fr",
     "icon": "https://icons.duckduckgo.com/ip3/qbt.androz2091.fr.ico",
     "slug": "q-bittorrent",
-    "status": "down",
+    "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "24.16%",
-    "uptimeWeek": "86.65%",
-    "uptimeMonth": "96.93%",
+    "uptimeDay": "24.19%",
+    "uptimeWeek": "86.56%",
+    "uptimeMonth": "96.91%",
     "uptimeYear": "99.74%",
     "time": 192,
-    "timeDay": 149,
-    "timeWeek": 133,
-    "timeMonth": 170,
+    "timeDay": 139,
+    "timeWeek": 130,
+    "timeMonth": 168,
     "timeYear": 180,
     "dailyMinutesDown": {
-      "2024-09-02": 576,
+      "2024-09-02": 585,
       "2024-09-01": 769,
       "2023-11-04": 17
     }
@@ -525,8 +525,8 @@
     "status": "down",
     "uptime": "99.85%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "83.09%",
-    "uptimeMonth": "96.11%",
+    "uptimeWeek": "83.00%",
+    "uptimeMonth": "96.09%",
     "uptimeYear": "99.67%",
     "time": 535,
     "timeDay": 0,
@@ -534,7 +534,7 @@
     "timeMonth": 528,
     "timeYear": 547,
     "dailyMinutesDown": {
-      "2024-09-02": 925,
+      "2024-09-02": 934,
       "2024-09-01": 780,
       "2023-11-04": 17,
       "2023-10-21": 16
@@ -566,8 +566,8 @@
     "status": "down",
     "uptime": "99.80%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "83.00%",
-    "uptimeMonth": "96.09%",
+    "uptimeWeek": "82.91%",
+    "uptimeMonth": "96.07%",
     "uptimeYear": "99.67%",
     "time": 188,
     "timeDay": 180,
@@ -575,7 +575,7 @@
     "timeMonth": 162,
     "timeYear": 182,
     "dailyMinutesDown": {
-      "2024-09-02": 925,
+      "2024-09-02": 934,
       "2024-09-01": 789,
       "2023-11-04": 17
     }
@@ -588,8 +588,8 @@
     "status": "down",
     "uptime": "99.80%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "83.00%",
-    "uptimeMonth": "96.09%",
+    "uptimeWeek": "82.91%",
+    "uptimeMonth": "96.07%",
     "uptimeYear": "99.67%",
     "time": 252,
     "timeDay": 186,
@@ -597,7 +597,7 @@
     "timeMonth": 203,
     "timeYear": 233,
     "dailyMinutesDown": {
-      "2024-09-02": 925,
+      "2024-09-02": 934,
       "2024-09-01": 789,
       "2023-11-04": 17
     }
@@ -609,7 +609,7 @@
     "slug": "tagger",
     "status": "up",
     "uptime": "99.77%",
-    "uptimeDay": "88.72%",
+    "uptimeDay": "89.36%",
     "uptimeWeek": "95.87%",
     "uptimeMonth": "99.05%",
     "uptimeYear": "99.66%",
@@ -633,8 +633,8 @@
     "status": "down",
     "uptime": "99.41%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "83.31%",
-    "uptimeMonth": "96.16%",
+    "uptimeWeek": "83.22%",
+    "uptimeMonth": "96.14%",
     "uptimeYear": "99.41%",
     "time": 179,
     "timeDay": 0,
@@ -642,7 +642,7 @@
     "timeMonth": 181,
     "timeYear": 179,
     "dailyMinutesDown": {
-      "2024-09-02": 925,
+      "2024-09-02": 934,
       "2024-09-01": 758
     }
   },
@@ -654,8 +654,8 @@
     "status": "down",
     "uptime": "98.95%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "83.31%",
-    "uptimeMonth": "96.16%",
+    "uptimeWeek": "83.22%",
+    "uptimeMonth": "96.14%",
     "uptimeYear": "98.95%",
     "time": 419,
     "timeDay": 0,
@@ -663,7 +663,7 @@
     "timeMonth": 402,
     "timeYear": 419,
     "dailyMinutesDown": {
-      "2024-09-02": 925,
+      "2024-09-02": 934,
       "2024-09-01": 758,
       "2024-05-12": 17
     }
@@ -676,8 +676,8 @@
     "status": "down",
     "uptime": "99.78%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "83.34%",
-    "uptimeMonth": "96.17%",
+    "uptimeWeek": "83.25%",
+    "uptimeMonth": "96.15%",
     "uptimeYear": "99.68%",
     "time": 48,
     "timeDay": 0,
@@ -685,7 +685,7 @@
     "timeMonth": 34,
     "timeYear": 44,
     "dailyMinutesDown": {
-      "2024-09-02": 925,
+      "2024-09-02": 934,
       "2024-09-01": 755
     }
   }
