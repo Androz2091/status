@@ -5,8 +5,6 @@ repo: status # The name of this repository
 sites:
   - name: Blog
     url: https://blog.androz2091.fr
-  - name: NextCloud
-    url: https://next.androz2091.fr
   - name: DDPE
     url: https://ddpe.androz2091.fr
   - name: Diswho
@@ -25,12 +23,8 @@ sites:
     url: https://sonarr.androz2091.fr
   - name: Radarr
     url: https://radarr.androz2091.fr
-  - name: Bazarr
-    url: https://bazarr.androz2091.fr
   - name: Jackett
     url: https://bazarr.androz2091.fr
-  - name: Portainer
-    url: https://portainer.androz2091.fr
   - name: FileBrowser
     url: https://cloud.androz2091.fr
   - name: Immich
@@ -47,8 +41,6 @@ sites:
     url: https://love-calc.androz2091.fr
   - name: Slash Commands GUI
     url: https://slash-commands-gui.androz2091.fr
-  - name: Twittycord
-    url: https://twittycord.com
   - name: ManageInvite
     url: https://manage-invite.xyz
   - name: ManageInvite API
@@ -61,11 +53,6 @@ sites:
     url: https://recipes.androz2091.fr
   - name: Monica
     url: https://monica.androz2091.fr
-  - name: SSHception
-    check: "tcp-ping"
-    url: ssh.androz2091.fr
-    port: 3333
- 
 
 status-website:
   cname: ismyserverworki.ng
