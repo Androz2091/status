@@ -1,7 +1,7 @@
 url: https://radarr.androz2091.fr
-status: up
-code: 200
-responseTime: 2767
-lastUpdated: 2024-09-16T07:32:06.350Z
+status: down
+code: 502
+responseTime: 254
+lastUpdated: 2024-09-16T17:09:30.883Z
 startTime: 2022-12-17T10:10:14.000Z
 generator: Upptime <https://github.com/upptime/upptime>
