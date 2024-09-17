@@ -51,8 +51,6 @@ sites:
     url: https://recipes.androz2091.fr
   - name: Monica
     url: https://monica.androz2091.fr
-  - name: Monica
-    url: https://monica.androz2091.fr
   - name: Prometheus Grafana
     url: https://prometheus-grafana.androz2091.fr
   - name: Harbor
