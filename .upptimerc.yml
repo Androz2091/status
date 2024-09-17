@@ -23,8 +23,6 @@ sites:
     url: https://sonarr.androz2091.fr
   - name: Radarr
     url: https://radarr.androz2091.fr
-  - name: Jackett
-    url: https://bazarr.androz2091.fr
   - name: FileBrowser
     url: https://cloud.androz2091.fr
   - name: Immich
@@ -53,15 +51,25 @@ sites:
     url: https://recipes.androz2091.fr
   - name: Monica
     url: https://monica.androz2091.fr
+  - name: Monica
+    url: https://monica.androz2091.fr
+  - name: Prometheus Grafana
+    url: https://prometheus-grafana.androz2091.fr
+  - name: Harbor
+    url: https://harbor.androz2091.fr
+  - name: ArgoCD
+    url: https://argocd.androz2091.fr
 
 status-website:
   cname: ismyserverworki.ng
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Simon** - aka Androz2091 - **services status page**"
-  introMessage: This page shows the status of the services and projects hosted on my servers.
+  name: Androz k8s cluster status
+  introTitle: "**Simon** - aka Androz2091 - **k8s cluster status page**"
+  introMessage: This page shows the status of the services and projects hosted on my servers. My k8s cluster manifests are open source, check out: https://github.com/Androz2091/k8s-infrastructure.
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+    - title: k8s Cluster manifests
+      href: https://github.com/Androz2091/k8s-infrastructure
