@@ -65,7 +65,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Androz k8s cluster status
   introTitle: "**Simon** - aka Androz2091 - **k8s cluster status page**"
-  introMessage: This page shows the status of the services and projects hosted on my servers. My k8s cluster manifests are open source, check out: https://github.com/Androz2091/k8s-infrastructure.
+  introMessage: This page shows the status of the services and projects hosted on my servers. All my infrastructure is open source, check out my k8s cluster manifests in the navugation bar.
   navbar:
     - title: Status
       href: /
