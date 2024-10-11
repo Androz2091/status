@@ -6,9 +6,9 @@
     "slug": "blog",
     "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "73.59%",
-    "uptimeWeek": "96.23%",
-    "uptimeMonth": "99.13%",
+    "uptimeDay": "73.00%",
+    "uptimeWeek": "96.14%",
+    "uptimeMonth": "99.11%",
     "uptimeYear": "99.92%",
     "time": 248,
     "timeDay": 178,
@@ -16,7 +16,7 @@
     "timeMonth": 190,
     "timeYear": 203,
     "dailyMinutesDown": {
-      "2024-10-11": 380,
+      "2024-10-11": 389,
       "2023-10-30": 31
     }
   },
@@ -25,19 +25,19 @@
     "url": "https://ddpe.androz2091.fr",
     "icon": "https://icons.duckduckgo.com/ip3/ddpe.androz2091.fr.ico",
     "slug": "ddpe",
-    "status": "down",
+    "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "74.81%",
-    "uptimeWeek": "96.40%",
-    "uptimeMonth": "99.17%",
-    "uptimeYear": "99.93%",
-    "time": 221,
-    "timeDay": 273,
-    "timeWeek": 198,
-    "timeMonth": 196,
-    "timeYear": 195,
+    "uptimeDay": "74.23%",
+    "uptimeWeek": "96.32%",
+    "uptimeMonth": "99.15%",
+    "uptimeYear": "99.92%",
+    "time": 220,
+    "timeDay": 211,
+    "timeWeek": 186,
+    "timeMonth": 192,
+    "timeYear": 194,
     "dailyMinutesDown": {
-      "2024-10-11": 363,
+      "2024-10-11": 372,
       "2023-10-30": 31
     }
   },
@@ -122,7 +122,7 @@
     "uptime": "91.73%",
     "uptimeDay": "91.96%",
     "uptimeWeek": "98.85%",
-    "uptimeMonth": "80.28%",
+    "uptimeMonth": "80.30%",
     "uptimeYear": "95.52%",
     "time": 210,
     "timeDay": 243,
@@ -195,7 +195,7 @@
     "timeMonth": 0,
     "timeYear": 373,
     "dailyMinutesDown": {
-      "2024-10-11": 1175,
+      "2024-10-11": 1183,
       "2024-10-10": 1440,
       "2024-10-09": 1440,
       "2024-10-08": 1440,
@@ -256,7 +256,7 @@
     "timeMonth": 0,
     "timeYear": 336,
     "dailyMinutesDown": {
-      "2024-10-11": 1175,
+      "2024-10-11": 1183,
       "2024-10-10": 1440,
       "2024-10-09": 1440,
       "2024-10-08": 1440,
@@ -508,10 +508,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/instaddict.androz2091.fr.ico",
     "slug": "instaddict",
     "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "73.61%",
-    "uptimeWeek": "96.23%",
-    "uptimeMonth": "99.13%",
+    "uptime": "99.95%",
+    "uptimeDay": "73.01%",
+    "uptimeWeek": "96.14%",
+    "uptimeMonth": "99.11%",
     "uptimeYear": "99.93%",
     "time": 207,
     "timeDay": 79,
@@ -519,7 +519,7 @@
     "timeMonth": 222,
     "timeYear": 194,
     "dailyMinutesDown": {
-      "2024-10-11": 380
+      "2024-10-11": 389
     }
   },
   {
@@ -529,9 +529,9 @@
     "slug": "online-love-calc",
     "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "73.61%",
-    "uptimeWeek": "96.23%",
-    "uptimeMonth": "99.13%",
+    "uptimeDay": "73.01%",
+    "uptimeWeek": "96.14%",
+    "uptimeMonth": "99.11%",
     "uptimeYear": "99.93%",
     "time": 112,
     "timeDay": 67,
@@ -539,7 +539,7 @@
     "timeMonth": 112,
     "timeYear": 112,
     "dailyMinutesDown": {
-      "2024-10-11": 380
+      "2024-10-11": 389
     }
   },
   {
@@ -549,9 +549,9 @@
     "slug": "slash-commands-gui",
     "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "73.61%",
-    "uptimeWeek": "96.23%",
-    "uptimeMonth": "99.13%",
+    "uptimeDay": "73.01%",
+    "uptimeWeek": "96.14%",
+    "uptimeMonth": "99.11%",
     "uptimeYear": "99.93%",
     "time": 190,
     "timeDay": 139,
@@ -559,7 +559,7 @@
     "timeMonth": 275,
     "timeYear": 172,
     "dailyMinutesDown": {
-      "2024-10-11": 380
+      "2024-10-11": 389
     }
   },
   {
@@ -588,7 +588,7 @@
     "status": "up",
     "uptime": "97.93%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "80.21%",
+    "uptimeWeek": "80.29%",
     "uptimeMonth": "78.06%",
     "uptimeYear": "96.23%",
     "time": 183,
@@ -706,7 +706,7 @@
     "timeMonth": 0,
     "timeYear": 179,
     "dailyMinutesDown": {
-      "2024-10-11": 1175,
+      "2024-10-11": 1184,
       "2024-10-10": 1440,
       "2024-10-09": 1440,
       "2024-10-08": 1440,
@@ -766,7 +766,7 @@
     "timeMonth": 0,
     "timeYear": 416,
     "dailyMinutesDown": {
-      "2024-10-11": 1175,
+      "2024-10-11": 1184,
       "2024-10-10": 1440,
       "2024-10-09": 1440,
       "2024-10-08": 1440,
