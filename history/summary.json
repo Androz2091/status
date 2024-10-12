@@ -25,19 +25,19 @@
     "url": "https://ddpe.androz2091.fr",
     "icon": "https://icons.duckduckgo.com/ip3/ddpe.androz2091.fr.ico",
     "slug": "ddpe",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "70.95%",
-    "uptimeWeek": "95.85%",
-    "uptimeMonth": "99.04%",
-    "uptimeYear": "99.91%",
+    "uptimeDay": "71.53%",
+    "uptimeWeek": "95.93%",
+    "uptimeMonth": "99.06%",
+    "uptimeYear": "99.92%",
     "time": 219,
     "timeDay": 176,
     "timeWeek": 174,
     "timeMonth": 184,
     "timeYear": 194,
     "dailyMinutesDown": {
-      "2024-10-12": 56,
+      "2024-10-12": 47,
       "2024-10-11": 363,
       "2023-10-30": 31
     }
@@ -123,7 +123,7 @@
     "uptime": "91.73%",
     "uptimeDay": "91.96%",
     "uptimeWeek": "98.85%",
-    "uptimeMonth": "82.39%",
+    "uptimeMonth": "82.41%",
     "uptimeYear": "95.52%",
     "time": 210,
     "timeDay": 184,
@@ -196,7 +196,7 @@
     "timeMonth": 0,
     "timeYear": 373,
     "dailyMinutesDown": {
-      "2024-10-12": 658,
+      "2024-10-12": 669,
       "2024-10-11": 1440,
       "2024-10-10": 1440,
       "2024-10-09": 1440,
@@ -258,7 +258,7 @@
     "timeMonth": 0,
     "timeYear": 336,
     "dailyMinutesDown": {
-      "2024-10-12": 658,
+      "2024-10-12": 669,
       "2024-10-11": 1440,
       "2024-10-10": 1440,
       "2024-10-09": 1440,
@@ -512,9 +512,9 @@
     "slug": "instaddict",
     "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "9.47%",
-    "uptimeWeek": "87.07%",
-    "uptimeMonth": "97.02%",
+    "uptimeDay": "8.75%",
+    "uptimeWeek": "86.96%",
+    "uptimeMonth": "97.00%",
     "uptimeYear": "99.75%",
     "time": 207,
     "timeDay": 0,
@@ -522,7 +522,7 @@
     "timeMonth": 228,
     "timeYear": 194,
     "dailyMinutesDown": {
-      "2024-10-12": 659,
+      "2024-10-12": 669,
       "2024-10-11": 645
     }
   },
@@ -533,9 +533,9 @@
     "slug": "online-love-calc",
     "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "9.47%",
-    "uptimeWeek": "87.07%",
-    "uptimeMonth": "97.02%",
+    "uptimeDay": "8.75%",
+    "uptimeWeek": "86.96%",
+    "uptimeMonth": "97.00%",
     "uptimeYear": "99.75%",
     "time": 112,
     "timeDay": 0,
@@ -543,7 +543,7 @@
     "timeMonth": 113,
     "timeYear": 112,
     "dailyMinutesDown": {
-      "2024-10-12": 659,
+      "2024-10-12": 669,
       "2024-10-11": 645
     }
   },
@@ -554,9 +554,9 @@
     "slug": "slash-commands-gui",
     "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "9.47%",
-    "uptimeWeek": "87.07%",
-    "uptimeMonth": "97.02%",
+    "uptimeDay": "8.75%",
+    "uptimeWeek": "86.96%",
+    "uptimeMonth": "97.00%",
     "uptimeYear": "99.75%",
     "time": 190,
     "timeDay": 0,
@@ -564,7 +564,7 @@
     "timeMonth": 272,
     "timeYear": 172,
     "dailyMinutesDown": {
-      "2024-10-12": 659,
+      "2024-10-12": 669,
       "2024-10-11": 645
     }
   },
@@ -595,7 +595,7 @@
     "uptime": "97.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "87.82%",
-    "uptimeMonth": "78.22%",
+    "uptimeMonth": "78.24%",
     "uptimeYear": "96.23%",
     "time": 183,
     "timeDay": 88,
@@ -712,7 +712,7 @@
     "timeMonth": 0,
     "timeYear": 179,
     "dailyMinutesDown": {
-      "2024-10-12": 659,
+      "2024-10-12": 669,
       "2024-10-11": 1440,
       "2024-10-10": 1440,
       "2024-10-09": 1440,
@@ -773,7 +773,7 @@
     "timeMonth": 0,
     "timeYear": 416,
     "dailyMinutesDown": {
-      "2024-10-12": 659,
+      "2024-10-12": 669,
       "2024-10-11": 1440,
       "2024-10-10": 1440,
       "2024-10-09": 1440,
