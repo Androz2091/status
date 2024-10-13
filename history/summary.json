@@ -25,11 +25,11 @@
     "url": "https://ddpe.androz2091.fr",
     "icon": "https://icons.duckduckgo.com/ip3/ddpe.androz2091.fr.ico",
     "slug": "ddpe",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "96.58%",
-    "uptimeWeek": "95.45%",
-    "uptimeMonth": "98.95%",
+    "uptimeDay": "97.51%",
+    "uptimeWeek": "95.58%",
+    "uptimeMonth": "98.98%",
     "uptimeYear": "99.91%",
     "time": 249,
     "timeDay": 281,
@@ -37,7 +37,7 @@
     "timeMonth": 212,
     "timeYear": 197,
     "dailyMinutesDown": {
-      "2024-10-13": 33,
+      "2024-10-13": 19,
       "2024-10-12": 64,
       "2024-10-11": 363,
       "2023-10-30": 31
@@ -124,7 +124,7 @@
     "uptime": "91.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.85%",
-    "uptimeMonth": "85.32%",
+    "uptimeMonth": "85.35%",
     "uptimeYear": "95.52%",
     "time": 211,
     "timeDay": 443,
@@ -197,7 +197,7 @@
     "timeMonth": 0,
     "timeYear": 374,
     "dailyMinutesDown": {
-      "2024-10-13": 501,
+      "2024-10-13": 513,
       "2024-10-12": 1440,
       "2024-10-11": 1440,
       "2024-10-10": 1440,
@@ -260,7 +260,7 @@
     "timeMonth": 0,
     "timeYear": 336,
     "dailyMinutesDown": {
-      "2024-10-13": 501,
+      "2024-10-13": 513,
       "2024-10-12": 1440,
       "2024-10-11": 1440,
       "2024-10-10": 1440,
@@ -367,7 +367,7 @@
     "time": 166,
     "timeDay": 458,
     "timeWeek": 230,
-    "timeMonth": 211,
+    "timeMonth": 212,
     "timeYear": 166,
     "dailyMinutesDown": {
       "2024-10-11": 116,
@@ -516,8 +516,8 @@
     "status": "down",
     "uptime": "99.78%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "74.34%",
-    "uptimeMonth": "94.10%",
+    "uptimeWeek": "74.22%",
+    "uptimeMonth": "94.07%",
     "uptimeYear": "99.51%",
     "time": 207,
     "timeDay": 0,
@@ -525,7 +525,7 @@
     "timeMonth": 231,
     "timeYear": 194,
     "dailyMinutesDown": {
-      "2024-10-13": 501,
+      "2024-10-13": 513,
       "2024-10-12": 1440,
       "2024-10-11": 645
     }
@@ -536,10 +536,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/love-calc.androz2091.fr.ico",
     "slug": "online-love-calc",
     "status": "down",
-    "uptime": "99.80%",
+    "uptime": "99.79%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "74.34%",
-    "uptimeMonth": "94.10%",
+    "uptimeWeek": "74.22%",
+    "uptimeMonth": "94.07%",
     "uptimeYear": "99.51%",
     "time": 112,
     "timeDay": 0,
@@ -547,7 +547,7 @@
     "timeMonth": 111,
     "timeYear": 113,
     "dailyMinutesDown": {
-      "2024-10-13": 501,
+      "2024-10-13": 513,
       "2024-10-12": 1440,
       "2024-10-11": 645
     }
@@ -560,8 +560,8 @@
     "status": "down",
     "uptime": "99.77%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "74.34%",
-    "uptimeMonth": "94.10%",
+    "uptimeWeek": "74.22%",
+    "uptimeMonth": "94.07%",
     "uptimeYear": "99.51%",
     "time": 190,
     "timeDay": 0,
@@ -569,7 +569,7 @@
     "timeMonth": 275,
     "timeYear": 172,
     "dailyMinutesDown": {
-      "2024-10-13": 501,
+      "2024-10-13": 513,
       "2024-10-12": 1440,
       "2024-10-11": 645
     }
@@ -654,7 +654,7 @@
     "time": 236,
     "timeDay": 486,
     "timeWeek": 254,
-    "timeMonth": 200,
+    "timeMonth": 201,
     "timeYear": 221,
     "dailyMinutesDown": {
       "2024-09-17": 183,
@@ -718,7 +718,7 @@
     "timeMonth": 0,
     "timeYear": 179,
     "dailyMinutesDown": {
-      "2024-10-13": 501,
+      "2024-10-13": 514,
       "2024-10-12": 1440,
       "2024-10-11": 1440,
       "2024-10-10": 1440,
@@ -769,18 +769,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/monica.androz2091.fr.ico",
     "slug": "monica",
     "status": "down",
-    "uptime": "72.72%",
+    "uptime": "72.71%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "72.72%",
+    "uptimeYear": "72.71%",
     "time": 416,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 416,
     "dailyMinutesDown": {
-      "2024-10-13": 501,
+      "2024-10-13": 514,
       "2024-10-12": 1440,
       "2024-10-11": 1440,
       "2024-10-10": 1440,
