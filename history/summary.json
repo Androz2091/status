@@ -25,19 +25,19 @@
     "url": "https://ddpe.androz2091.fr",
     "icon": "https://icons.duckduckgo.com/ip3/ddpe.androz2091.fr.ico",
     "slug": "ddpe",
-    "status": "down",
+    "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "93.77%",
-    "uptimeWeek": "95.04%",
-    "uptimeMonth": "98.86%",
+    "uptimeDay": "93.20%",
+    "uptimeWeek": "94.96%",
+    "uptimeMonth": "98.84%",
     "uptimeYear": "99.90%",
-    "time": 227,
-    "timeDay": 297,
-    "timeWeek": 248,
-    "timeMonth": 221,
+    "time": 226,
+    "timeDay": 283,
+    "timeWeek": 249,
+    "timeMonth": 222,
     "timeYear": 199,
     "dailyMinutesDown": {
-      "2024-10-13": 73,
+      "2024-10-13": 82,
       "2024-10-12": 64,
       "2024-10-11": 363,
       "2023-10-30": 31
@@ -124,7 +124,7 @@
     "uptime": "91.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.85%",
-    "uptimeMonth": "86.48%",
+    "uptimeMonth": "86.50%",
     "uptimeYear": "95.52%",
     "time": 211,
     "timeDay": 443,
@@ -197,7 +197,7 @@
     "timeMonth": 0,
     "timeYear": 374,
     "dailyMinutesDown": {
-      "2024-10-13": 1010,
+      "2024-10-13": 1019,
       "2024-10-12": 1440,
       "2024-10-11": 1440,
       "2024-10-10": 1440,
@@ -260,7 +260,7 @@
     "timeMonth": 0,
     "timeYear": 336,
     "dailyMinutesDown": {
-      "2024-10-13": 1010,
+      "2024-10-13": 1019,
       "2024-10-12": 1440,
       "2024-10-11": 1440,
       "2024-10-10": 1440,
@@ -516,8 +516,8 @@
     "status": "down",
     "uptime": "99.74%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "69.29%",
-    "uptimeMonth": "92.93%",
+    "uptimeWeek": "69.21%",
+    "uptimeMonth": "92.91%",
     "uptimeYear": "99.41%",
     "time": 207,
     "timeDay": 0,
@@ -525,7 +525,7 @@
     "timeMonth": 231,
     "timeYear": 194,
     "dailyMinutesDown": {
-      "2024-10-13": 1011,
+      "2024-10-13": 1019,
       "2024-10-12": 1440,
       "2024-10-11": 645
     }
@@ -536,10 +536,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/love-calc.androz2091.fr.ico",
     "slug": "online-love-calc",
     "status": "down",
-    "uptime": "99.76%",
+    "uptime": "99.75%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "69.29%",
-    "uptimeMonth": "92.93%",
+    "uptimeWeek": "69.21%",
+    "uptimeMonth": "92.91%",
     "uptimeYear": "99.41%",
     "time": 112,
     "timeDay": 0,
@@ -547,7 +547,7 @@
     "timeMonth": 111,
     "timeYear": 113,
     "dailyMinutesDown": {
-      "2024-10-13": 1011,
+      "2024-10-13": 1019,
       "2024-10-12": 1440,
       "2024-10-11": 645
     }
@@ -560,8 +560,8 @@
     "status": "down",
     "uptime": "99.73%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "69.29%",
-    "uptimeMonth": "92.93%",
+    "uptimeWeek": "69.21%",
+    "uptimeMonth": "92.91%",
     "uptimeYear": "99.41%",
     "time": 190,
     "timeDay": 0,
@@ -569,7 +569,7 @@
     "timeMonth": 275,
     "timeYear": 172,
     "dailyMinutesDown": {
-      "2024-10-13": 1011,
+      "2024-10-13": 1019,
       "2024-10-12": 1440,
       "2024-10-11": 645
     }
@@ -718,7 +718,7 @@
     "timeMonth": 0,
     "timeYear": 179,
     "dailyMinutesDown": {
-      "2024-10-13": 1011,
+      "2024-10-13": 1019,
       "2024-10-12": 1440,
       "2024-10-11": 1440,
       "2024-10-10": 1440,
@@ -780,7 +780,7 @@
     "timeMonth": 0,
     "timeYear": 416,
     "dailyMinutesDown": {
-      "2024-10-13": 1011,
+      "2024-10-13": 1019,
       "2024-10-12": 1440,
       "2024-10-11": 1440,
       "2024-10-10": 1440,
