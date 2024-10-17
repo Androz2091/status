@@ -57,6 +57,10 @@ sites:
     url: https://harbor.androz2091.fr
   - name: ArgoCD
     url: https://argocd.androz2091.fr
+  - name: Main website (ndd androz2091)
+    url: https://androz2091.fr
+  - name: Main website (ndd simonlefort)
+    url: https://simonlefort.fr
 
 status-website:
   cname: ismyserverworki.ng
