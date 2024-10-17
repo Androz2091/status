@@ -127,7 +127,7 @@
     "uptime": "91.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.85%",
-    "uptimeMonth": "97.68%",
+    "uptimeMonth": "97.70%",
     "uptimeYear": "95.52%",
     "time": 211,
     "timeDay": 328,
@@ -200,7 +200,7 @@
     "timeMonth": 0,
     "timeYear": 372,
     "dailyMinutesDown": {
-      "2024-10-17": 946,
+      "2024-10-17": 955,
       "2024-10-16": 1440,
       "2024-10-15": 1440,
       "2024-10-14": 1440,
@@ -267,7 +267,7 @@
     "timeMonth": 0,
     "timeYear": 336,
     "dailyMinutesDown": {
-      "2024-10-17": 946,
+      "2024-10-17": 955,
       "2024-10-16": 1440,
       "2024-10-15": 1440,
       "2024-10-14": 1440,
@@ -527,8 +527,8 @@
     "status": "down",
     "uptime": "99.29%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "12.78%",
-    "uptimeMonth": "79.93%",
+    "uptimeWeek": "12.70%",
+    "uptimeMonth": "79.91%",
     "uptimeYear": "98.33%",
     "time": 207,
     "timeDay": 0,
@@ -536,7 +536,7 @@
     "timeMonth": 189,
     "timeYear": 194,
     "dailyMinutesDown": {
-      "2024-10-17": 946,
+      "2024-10-17": 955,
       "2024-10-16": 1440,
       "2024-10-15": 1440,
       "2024-10-14": 1440,
@@ -553,8 +553,8 @@
     "status": "down",
     "uptime": "99.31%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "12.78%",
-    "uptimeMonth": "79.93%",
+    "uptimeWeek": "12.70%",
+    "uptimeMonth": "79.91%",
     "uptimeYear": "98.33%",
     "time": 112,
     "timeDay": 0,
@@ -562,7 +562,7 @@
     "timeMonth": 113,
     "timeYear": 113,
     "dailyMinutesDown": {
-      "2024-10-17": 946,
+      "2024-10-17": 955,
       "2024-10-16": 1440,
       "2024-10-15": 1440,
       "2024-10-14": 1440,
@@ -578,7 +578,7 @@
     "slug": "slash-commands-gui",
     "status": "up",
     "uptime": "99.37%",
-    "uptimeDay": "74.84%",
+    "uptimeDay": "75.44%",
     "uptimeWeek": "23.48%",
     "uptimeMonth": "82.39%",
     "uptimeYear": "98.53%",
@@ -741,7 +741,7 @@
     "timeMonth": 0,
     "timeYear": 179,
     "dailyMinutesDown": {
-      "2024-10-17": 947,
+      "2024-10-17": 955,
       "2024-10-16": 1440,
       "2024-10-15": 1440,
       "2024-10-14": 1440,
@@ -807,7 +807,7 @@
     "timeMonth": 0,
     "timeYear": 416,
     "dailyMinutesDown": {
-      "2024-10-17": 947,
+      "2024-10-17": 955,
       "2024-10-16": 1440,
       "2024-10-15": 1440,
       "2024-10-14": 1440,
@@ -922,18 +922,20 @@
     "url": "https://androz2091.fr",
     "icon": "https://icons.duckduckgo.com/ip3/androz2091.fr.ico",
     "slug": "main-website-ndd-androz2091",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.83%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
     "time": 298,
     "timeDay": 298,
     "timeWeek": 298,
     "timeMonth": 298,
     "timeYear": 298,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-17": 1
+    }
   },
   {
     "name": "Main website (ndd simonlefort)",
@@ -941,18 +943,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/simonlefort.fr.ico",
     "slug": "main-website-ndd-simonlefort",
     "status": "up",
-    "uptime": "97.56%",
-    "uptimeDay": "97.56%",
-    "uptimeWeek": "97.56%",
-    "uptimeMonth": "97.56%",
-    "uptimeYear": "97.56%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 520,
     "timeDay": 520,
     "timeWeek": 520,
     "timeMonth": 520,
     "timeYear": 520,
-    "dailyMinutesDown": {
-      "2024-10-17": 9
-    }
+    "dailyMinutesDown": {}
   }
 ]
