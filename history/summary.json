@@ -16,8 +16,7 @@
     "timeMonth": 269,
     "timeYear": 210,
     "dailyMinutesDown": {
-      "2024-10-11": 442,
-      "2023-10-30": 31
+      "2024-10-11": 442
     }
   },
   {
@@ -27,9 +26,9 @@
     "slug": "ddpe",
     "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "97.66%",
-    "uptimeWeek": "99.52%",
-    "uptimeMonth": "98.24%",
+    "uptimeDay": "98.27%",
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "98.26%",
     "uptimeYear": "99.85%",
     "time": 226,
     "timeDay": 257,
@@ -37,7 +36,7 @@
     "timeMonth": 243,
     "timeYear": 208,
     "dailyMinutesDown": {
-      "2024-10-28": 34,
+      "2024-10-28": 25,
       "2024-10-22": 15,
       "2024-10-21": 39,
       "2024-10-20": 20,
@@ -46,8 +45,7 @@
       "2024-10-14": 24,
       "2024-10-13": 96,
       "2024-10-12": 64,
-      "2024-10-11": 363,
-      "2023-10-30": 31
+      "2024-10-11": 363
     }
   },
   {
@@ -204,7 +202,8 @@
     "timeMonth": 0,
     "timeYear": 372,
     "dailyMinutesDown": {
-      "2024-10-28": 1439,
+      "2024-10-29": 5,
+      "2024-10-28": 1440,
       "2024-10-27": 1440,
       "2024-10-26": 1440,
       "2024-10-25": 1440,
@@ -271,7 +270,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/sonarr.androz2091.fr.ico",
     "slug": "sonarr",
     "status": "down",
-    "uptime": "91.56%",
+    "uptime": "91.55%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -282,7 +281,8 @@
     "timeMonth": 0,
     "timeYear": 340,
     "dailyMinutesDown": {
-      "2024-10-28": 1439,
+      "2024-10-29": 5,
+      "2024-10-28": 1440,
       "2024-10-27": 1440,
       "2024-10-26": 1440,
       "2024-10-25": 1440,
@@ -554,7 +554,7 @@
     "uptime": "98.03%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "42.65%",
+    "uptimeMonth": "42.63%",
     "uptimeYear": "95.22%",
     "time": 207,
     "timeDay": 0,
@@ -562,7 +562,8 @@
     "timeMonth": 160,
     "timeYear": 196,
     "dailyMinutesDown": {
-      "2024-10-28": 1439,
+      "2024-10-29": 5,
+      "2024-10-28": 1440,
       "2024-10-27": 1440,
       "2024-10-26": 1440,
       "2024-10-25": 1440,
@@ -591,7 +592,7 @@
     "uptime": "98.05%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "42.65%",
+    "uptimeMonth": "42.63%",
     "uptimeYear": "95.22%",
     "time": 113,
     "timeDay": 0,
@@ -599,7 +600,8 @@
     "timeMonth": 118,
     "timeYear": 113,
     "dailyMinutesDown": {
-      "2024-10-28": 1439,
+      "2024-10-29": 5,
+      "2024-10-28": 1440,
       "2024-10-27": 1440,
       "2024-10-26": 1440,
       "2024-10-25": 1440,
@@ -784,18 +786,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/recipes.androz2091.fr.ico",
     "slug": "mealie",
     "status": "down",
-    "uptime": "77.50%",
+    "uptime": "77.49%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "77.50%",
+    "uptimeYear": "77.49%",
     "time": 179,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 179,
     "dailyMinutesDown": {
-      "2024-10-28": 1439,
+      "2024-10-29": 5,
+      "2024-10-28": 1440,
       "2024-10-27": 1440,
       "2024-10-26": 1440,
       "2024-10-25": 1440,
@@ -872,7 +875,8 @@
     "timeMonth": 0,
     "timeYear": 416,
     "dailyMinutesDown": {
-      "2024-10-28": 1439,
+      "2024-10-29": 5,
+      "2024-10-28": 1440,
       "2024-10-27": 1440,
       "2024-10-26": 1440,
       "2024-10-25": 1440,
