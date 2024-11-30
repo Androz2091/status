@@ -55,6 +55,8 @@ sites:
     url: https://androz2091.fr
   - name: Main website (ndd simonlefort)
     url: https://simonlefort.fr
+  - name: Stirling PDF
+    url: https://pdf.androz2091.fr
 
 status-website:
   cname: ismyserverworki.ng
