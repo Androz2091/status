@@ -57,6 +57,8 @@ sites:
     url: https://simonlefort.fr
   - name: Stirling PDF
     url: https://pdf.androz2091.fr
+  - name: Flep Guessr
+    url: https://flepguessr-cs214.androz2091.fr
 
 status-website:
   cname: ismyserverworki.ng
