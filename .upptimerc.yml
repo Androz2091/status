@@ -59,6 +59,8 @@ sites:
     url: https://pdf.androz2091.fr
   - name: Flep Guessr
     url: https://flepguessr-cs214.androz2091.fr
+  - name: h5ai (Servarr)
+    url: https://h5ai-servarr.androz2091.fr
 
 status-website:
   cname: ismyserverworki.ng
