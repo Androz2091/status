@@ -667,7 +667,7 @@
     "uptime": "56.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "64.39%",
+    "uptimeMonth": "64.40%",
     "uptimeYear": "56.45%",
     "time": 455,
     "timeDay": 599,
@@ -940,18 +940,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/h5ai-servarr.androz2091.fr.ico",
     "slug": "h5ai-servarr",
     "status": "up",
-    "uptime": "26.19%",
-    "uptimeDay": "26.19%",
-    "uptimeWeek": "26.19%",
-    "uptimeMonth": "26.19%",
-    "uptimeYear": "26.19%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 294,
     "timeDay": 294,
     "timeWeek": 294,
     "timeMonth": 294,
     "timeYear": 294,
-    "dailyMinutesDown": {
-      "2024-12-30": 2
-    }
+    "dailyMinutesDown": {}
   }
 ]
