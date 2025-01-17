@@ -63,6 +63,10 @@ sites:
     url: https://h5ai-servarr.androz2091.fr
     expectedStatusCodes:
       - 401
+  - name: Androz2091 Discord Redirection
+    url: https://androz2091.fr/discord
+    expectedStatusCodes:
+      - 308
 
 status-website:
   cname: ismyserverworki.ng
