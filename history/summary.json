@@ -959,18 +959,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/androz2091.fr.ico",
     "slug": "androz2091-discord-redirection",
     "status": "down",
-    "uptime": "0.60%",
-    "uptimeDay": "0.60%",
-    "uptimeWeek": "0.60%",
-    "uptimeMonth": "0.60%",
-    "uptimeYear": "0.60%",
+    "uptime": "1.29%",
+    "uptimeDay": "1.29%",
+    "uptimeWeek": "1.29%",
+    "uptimeMonth": "1.29%",
+    "uptimeYear": "1.29%",
     "time": 480,
     "timeDay": 480,
     "timeWeek": 480,
     "timeMonth": 480,
     "timeYear": 480,
     "dailyMinutesDown": {
-      "2025-01-17": 1
+      "2025-01-17": 2
     }
   }
 ]
