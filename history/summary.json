@@ -537,19 +537,19 @@
     "url": "https://api.manage-invite.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/api.manage-invite.xyz.ico",
     "slug": "manage-invite-api",
-    "status": "down",
+    "status": "up",
     "uptime": "96.91%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "98.69%",
-    "uptimeYear": "93.55%",
+    "uptimeDay": "97.50%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "98.61%",
+    "uptimeYear": "93.54%",
     "time": 174,
-    "timeDay": 119,
+    "timeDay": 132,
     "timeWeek": 167,
     "timeMonth": 188,
     "timeYear": 169,
     "dailyMinutesDown": {
-      "2025-01-18": 1,
+      "2025-01-18": 36,
       "2025-01-08": 22,
       "2024-12-30": 458,
       "2024-12-21": 92,
@@ -971,7 +971,7 @@
     "timeMonth": 404,
     "timeYear": 404,
     "dailyMinutesDown": {
-      "2025-01-18": 670,
+      "2025-01-18": 706,
       "2025-01-17": 974
     }
   }
