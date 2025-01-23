@@ -67,7 +67,7 @@ sites:
     url: https://androz2091.fr/discord
     maxRedirects: 0
     expectedStatusCodes:
-      - 308
+      - 302
 
 status-website:
   cname: ismyserverworki.ng
