@@ -19,6 +19,10 @@ sites:
     url: https://sabnzbd.androz2091.fr
   - name: Radarr
     url: https://radarr.androz2091.fr
+  - name: Sonarr
+    url: https://sonarr.androz2091.fr
+  - name: Overseerr
+    url: https://overseerr.androz2091.fr
   - name: FileBrowser
     url: https://cloud.androz2091.fr
   - name: Immich
