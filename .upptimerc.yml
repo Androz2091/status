@@ -79,7 +79,7 @@ sites:
   - name: Dumpus (web client)
     url: https://web.dumpus.app
   - name: Dumpus (API)
-    url: http://api.dumpus.app
+    url: http://api.dumpus.app/health
 
 status-website:
   cname: ismyserverworki.ng
