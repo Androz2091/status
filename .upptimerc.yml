@@ -74,6 +74,12 @@ sites:
       - 302
   - name: Paperless
     url: https://documents.androz2091.fr
+  - name: Dumpus (landing)
+    url: https://dumpus.app
+  - name: Dumpus (web client)
+    url: https://web.dumpus.app
+  - name: Dumpus (API)
+    url: http://api.dumpus.app
 
 status-website:
   cname: ismyserverworki.ng
