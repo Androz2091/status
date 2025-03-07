@@ -1,7 +1,7 @@
-url: http://api.dumpus.app
-status: down
-code: 404
-responseTime: 784
-lastUpdated: 2025-03-07T16:19:17.752Z
+url: http://api.dumpus.app/health
+status: up
+code: 200
+responseTime: 794
+lastUpdated: 2025-03-07T16:22:16.120Z
 startTime: 2025-03-07T16:19:16.562Z
 generator: Upptime <https://github.com/upptime/upptime>
