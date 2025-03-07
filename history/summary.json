@@ -1245,18 +1245,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.dumpus.app.ico",
     "slug": "dumpus-api",
     "status": "down",
-    "uptime": "2.13%",
-    "uptimeDay": "2.13%",
-    "uptimeWeek": "2.13%",
-    "uptimeMonth": "2.13%",
-    "uptimeYear": "2.13%",
+    "uptime": "1.50%",
+    "uptimeDay": "1.50%",
+    "uptimeWeek": "1.50%",
+    "uptimeMonth": "1.50%",
+    "uptimeYear": "1.50%",
     "time": 784,
     "timeDay": 784,
     "timeWeek": 784,
     "timeMonth": 784,
     "timeYear": 784,
     "dailyMinutesDown": {
-      "2025-03-07": 1
+      "2025-03-07": 2
     }
   }
 ]
