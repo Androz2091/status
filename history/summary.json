@@ -742,7 +742,7 @@
     "status": "up",
     "uptime": "97.08%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.62%",
+    "uptimeWeek": "99.68%",
     "uptimeMonth": "99.77%",
     "uptimeYear": "93.50%",
     "time": 173,
@@ -1244,19 +1244,19 @@
     "url": "http://api.dumpus.app/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.dumpus.app.ico",
     "slug": "dumpus-api",
-    "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
-    "time": 799,
-    "timeDay": 700,
-    "timeWeek": 799,
-    "timeMonth": 799,
-    "timeYear": 799,
+    "status": "up",
+    "uptime": "99.72%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.72%",
+    "uptimeYear": "99.72%",
+    "time": 3161,
+    "timeDay": 6655,
+    "timeWeek": 3161,
+    "timeMonth": 3161,
+    "timeYear": 3161,
     "dailyMinutesDown": {
-      "2025-03-09": 1
+      "2025-03-09": 7
     }
   }
 ]
