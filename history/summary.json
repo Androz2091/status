@@ -1244,19 +1244,19 @@
     "url": "http://api.dumpus.app/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.dumpus.app.ico",
     "slug": "dumpus-api",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 1912,
-    "timeDay": 1169,
-    "timeWeek": 2236,
-    "timeMonth": 1912,
-    "timeYear": 1912,
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "99.21%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
+    "time": 1867,
+    "timeDay": 1224,
+    "timeWeek": 2149,
+    "timeMonth": 1867,
+    "timeYear": 1867,
     "dailyMinutesDown": {
-      "2025-03-15": 1
+      "2025-03-15": 11
     }
   }
 ]
