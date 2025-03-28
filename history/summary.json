@@ -1246,10 +1246,10 @@
     "url": "http://api.dumpus.app/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.dumpus.app.ico",
     "slug": "dumpus-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2672,
@@ -1257,6 +1257,8 @@
     "timeWeek": 2984,
     "timeMonth": 2672,
     "timeYear": 2672,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-28": 1
+    }
   }
 ]
