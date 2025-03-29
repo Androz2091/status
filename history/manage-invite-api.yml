@@ -1,7 +1,7 @@
 url: https://api.manage-invite.xyz
-status: up
-code: 200
-responseTime: 102
-lastUpdated: 2025-03-28T23:06:44.184Z
+status: down
+code: 502
+responseTime: 87
+lastUpdated: 2025-03-29T12:18:01.922Z
 startTime: 2022-12-17T10:10:25.000Z
 generator: Upptime <https://github.com/upptime/upptime>
