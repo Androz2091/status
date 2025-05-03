@@ -57,8 +57,10 @@ sites:
     url: https://argocd.androz2091.fr
   - name: Main website (ndd androz2091)
     url: https://androz2091.fr
-  - name: Main website (ndd simonlefort)
+  - name: Main website (ndd simonlefort.fr)
     url: https://simonlefort.fr
+  - name: Main website (ndd simonlefort.ch)
+    url: https://simonlefort.ch
   - name: Stirling PDF
     url: https://pdf.androz2091.fr
   - name: Flep Guessr
@@ -80,6 +82,18 @@ sites:
     url: https://web.dumpus.app
   - name: Dumpus (API)
     url: http://api.dumpus.app/health
+  - name: PDFDing
+    url: https://pdfding.androz2091.fr
+  - name: Polysource Splited
+    url: https://splited.polysource.ch
+    expectedStatusCodes:
+      - 426 # actually websocket
+  - name: S4S Programming website
+    url: https://prog.students4students.ch
+  - name: Madeam
+    url: https://madeam.fr
+  - name: Clem Creations
+    url: https://www.clem-creations.com
 
 status-website:
   cname: ismyserverworki.ng
