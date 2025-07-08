@@ -1304,8 +1304,8 @@
     "slug": "pdf-ding",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 371,
@@ -1314,7 +1314,7 @@
     "timeMonth": 387,
     "timeYear": 371,
     "dailyMinutesDown": {
-      "2025-07-08": 1
+      "2025-07-08": 2
     }
   },
   {
@@ -1324,8 +1324,8 @@
     "slug": "s4-s-programming-website",
     "status": "up",
     "uptime": "74.87%",
-    "uptimeDay": "76.82%",
-    "uptimeWeek": "10.97%",
+    "uptimeDay": "76.89%",
+    "uptimeWeek": "10.98%",
     "uptimeMonth": "46.17%",
     "uptimeYear": "74.87%",
     "time": 1143,
