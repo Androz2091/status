@@ -13,7 +13,7 @@
     "time": 315,
     "timeDay": 333,
     "timeWeek": 424,
-    "timeMonth": 507,
+    "timeMonth": 499,
     "timeYear": 344,
     "dailyMinutesDown": {
       "2024-10-11": 442
@@ -33,7 +33,7 @@
     "time": 291,
     "timeDay": 416,
     "timeWeek": 339,
-    "timeMonth": 363,
+    "timeMonth": 366,
     "timeYear": 312,
     "dailyMinutesDown": {
       "2024-11-06": 33,
@@ -67,7 +67,7 @@
     "time": 310,
     "timeDay": 589,
     "timeWeek": 492,
-    "timeMonth": 355,
+    "timeMonth": 360,
     "timeYear": 336,
     "dailyMinutesDown": {
       "2024-10-11": 130,
@@ -90,7 +90,7 @@
     "time": 311,
     "timeDay": 481,
     "timeWeek": 455,
-    "timeMonth": 386,
+    "timeMonth": 391,
     "timeYear": 339,
     "dailyMinutesDown": {
       "2025-06-26": 85,
@@ -114,7 +114,7 @@
     "time": 304,
     "timeDay": 459,
     "timeWeek": 428,
-    "timeMonth": 346,
+    "timeMonth": 350,
     "timeYear": 324,
     "dailyMinutesDown": {
       "2024-10-11": 116,
@@ -137,7 +137,7 @@
     "time": 274,
     "timeDay": 498,
     "timeWeek": 425,
-    "timeMonth": 334,
+    "timeMonth": 337,
     "timeYear": 310,
     "dailyMinutesDown": {
       "2024-10-11": 116,
@@ -175,7 +175,7 @@
     "time": 320,
     "timeDay": 558,
     "timeWeek": 475,
-    "timeMonth": 386,
+    "timeMonth": 389,
     "timeYear": 337,
     "dailyMinutesDown": {
       "2024-10-11": 130,
@@ -199,7 +199,7 @@
     "time": 305,
     "timeDay": 530,
     "timeWeek": 419,
-    "timeMonth": 357,
+    "timeMonth": 362,
     "timeYear": 338,
     "dailyMinutesDown": {
       "2024-12-20": 1,
@@ -216,15 +216,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/sonarr.androz2091.fr.ico",
     "slug": "sonarr",
     "status": "up",
-    "uptime": "57.35%",
+    "uptime": "57.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "57.37%",
+    "uptimeYear": "57.46%",
     "time": 347,
     "timeDay": 483,
     "timeWeek": 407,
-    "timeMonth": 330,
+    "timeMonth": 331,
     "timeYear": 318,
     "dailyMinutesDown": {
       "2024-11-20": 458,
@@ -316,15 +316,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/overseerr.androz2091.fr.ico",
     "slug": "overseerr",
     "status": "up",
-    "uptime": "57.35%",
+    "uptime": "57.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "57.37%",
+    "uptimeYear": "57.46%",
     "time": 444,
     "timeDay": 850,
     "timeWeek": 807,
-    "timeMonth": 590,
+    "timeMonth": 593,
     "timeYear": 519,
     "dailyMinutesDown": {
       "2024-11-20": 458,
@@ -424,7 +424,7 @@
     "time": 263,
     "timeDay": 404,
     "timeWeek": 363,
-    "timeMonth": 484,
+    "timeMonth": 492,
     "timeYear": 291,
     "dailyMinutesDown": {
       "2024-10-11": 116,
@@ -442,11 +442,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.68%",
     "uptimeMonth": "99.93%",
-    "uptimeYear": "92.15%",
+    "uptimeYear": "92.27%",
     "time": 233,
     "timeDay": 408,
     "timeWeek": 316,
-    "timeMonth": 286,
+    "timeMonth": 289,
     "timeYear": 252,
     "dailyMinutesDown": {
       "2025-08-04": 33,
@@ -507,7 +507,7 @@
     "time": 244,
     "timeDay": 418,
     "timeWeek": 366,
-    "timeMonth": 301,
+    "timeMonth": 304,
     "timeYear": 261,
     "dailyMinutesDown": {
       "2024-10-11": 129,
@@ -530,7 +530,7 @@
     "time": 244,
     "timeDay": 391,
     "timeWeek": 391,
-    "timeMonth": 310,
+    "timeMonth": 312,
     "timeYear": 263,
     "dailyMinutesDown": {
       "2024-10-11": 116,
@@ -552,7 +552,7 @@
     "time": 237,
     "timeDay": 399,
     "timeWeek": 344,
-    "timeMonth": 309,
+    "timeMonth": 312,
     "timeYear": 261,
     "dailyMinutesDown": {
       "2025-07-21": 52,
@@ -638,7 +638,7 @@
     "time": 185,
     "timeDay": 205,
     "timeWeek": 240,
-    "timeMonth": 221,
+    "timeMonth": 223,
     "timeYear": 209,
     "dailyMinutesDown": {
       "2024-10-30": 564,
@@ -677,7 +677,7 @@
     "time": 233,
     "timeDay": 426,
     "timeWeek": 340,
-    "timeMonth": 280,
+    "timeMonth": 283,
     "timeYear": 259,
     "dailyMinutesDown": {
       "2024-11-06": 18,
@@ -708,7 +708,7 @@
     "time": 223,
     "timeDay": 249,
     "timeWeek": 289,
-    "timeMonth": 244,
+    "timeMonth": 246,
     "timeYear": 235,
     "dailyMinutesDown": {
       "2025-04-29": 26
@@ -728,7 +728,7 @@
     "time": 170,
     "timeDay": 255,
     "timeWeek": 216,
-    "timeMonth": 167,
+    "timeMonth": 169,
     "timeYear": 167,
     "dailyMinutesDown": {
       "2025-06-05": 43,
@@ -819,7 +819,7 @@
     "time": 238,
     "timeDay": 454,
     "timeWeek": 361,
-    "timeMonth": 295,
+    "timeMonth": 300,
     "timeYear": 233,
     "dailyMinutesDown": {
       "2025-04-29": 26,
@@ -856,7 +856,7 @@
     "time": 281,
     "timeDay": 500,
     "timeWeek": 404,
-    "timeMonth": 315,
+    "timeMonth": 318,
     "timeYear": 298,
     "dailyMinutesDown": {
       "2024-10-11": 115,
@@ -869,7 +869,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/monica.androz2091.fr.ico",
     "slug": "monica",
     "status": "up",
-    "uptime": "77.68%",
+    "uptime": "77.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -877,7 +877,7 @@
     "time": 532,
     "timeDay": 878,
     "timeWeek": 755,
-    "timeMonth": 609,
+    "timeMonth": 615,
     "timeYear": 567,
     "dailyMinutesDown": {
       "2024-12-11": 572,
@@ -998,7 +998,7 @@
     "time": 340,
     "timeDay": 590,
     "timeWeek": 476,
-    "timeMonth": 361,
+    "timeMonth": 365,
     "timeYear": 340,
     "dailyMinutesDown": {
       "2024-10-11": 115
@@ -1018,7 +1018,7 @@
     "time": 255,
     "timeDay": 404,
     "timeWeek": 354,
-    "timeMonth": 276,
+    "timeMonth": 279,
     "timeYear": 255,
     "dailyMinutesDown": {
       "2024-10-11": 129
@@ -1038,7 +1038,7 @@
     "time": 260,
     "timeDay": 431,
     "timeWeek": 351,
-    "timeMonth": 282,
+    "timeMonth": 285,
     "timeYear": 260,
     "dailyMinutesDown": {
       "2024-10-11": 115
@@ -1058,7 +1058,7 @@
     "time": 290,
     "timeDay": 459,
     "timeWeek": 388,
-    "timeMonth": 316,
+    "timeMonth": 320,
     "timeYear": 290,
     "dailyMinutesDown": {
       "2024-11-26": 15,
@@ -1079,7 +1079,7 @@
     "time": 610,
     "timeDay": 767,
     "timeWeek": 702,
-    "timeMonth": 610,
+    "timeMonth": 613,
     "timeYear": 610,
     "dailyMinutesDown": {}
   },
@@ -1097,7 +1097,7 @@
     "time": 367,
     "timeDay": 416,
     "timeWeek": 448,
-    "timeMonth": 387,
+    "timeMonth": 393,
     "timeYear": 367,
     "dailyMinutesDown": {}
   },
@@ -1115,7 +1115,7 @@
     "time": 345,
     "timeDay": 538,
     "timeWeek": 477,
-    "timeMonth": 370,
+    "timeMonth": 374,
     "timeYear": 345,
     "dailyMinutesDown": {
       "2024-12-07": 17,
@@ -1142,7 +1142,7 @@
     "time": 308,
     "timeDay": 437,
     "timeWeek": 368,
-    "timeMonth": 295,
+    "timeMonth": 299,
     "timeYear": 308,
     "dailyMinutesDown": {}
   },
@@ -1160,7 +1160,7 @@
     "time": 266,
     "timeDay": 389,
     "timeWeek": 335,
-    "timeMonth": 266,
+    "timeMonth": 269,
     "timeYear": 266,
     "dailyMinutesDown": {}
   },
@@ -1178,7 +1178,7 @@
     "time": 146,
     "timeDay": 230,
     "timeWeek": 198,
-    "timeMonth": 145,
+    "timeMonth": 147,
     "timeYear": 146,
     "dailyMinutesDown": {
       "2025-01-23": 677,
@@ -1204,7 +1204,7 @@
     "time": 362,
     "timeDay": 505,
     "timeWeek": 468,
-    "timeMonth": 371,
+    "timeMonth": 374,
     "timeYear": 362,
     "dailyMinutesDown": {}
   },
@@ -1222,7 +1222,7 @@
     "time": 723,
     "timeDay": 1047,
     "timeWeek": 893,
-    "timeMonth": 751,
+    "timeMonth": 755,
     "timeYear": 723,
     "dailyMinutesDown": {}
   },
@@ -1240,7 +1240,7 @@
     "time": 716,
     "timeDay": 1047,
     "timeWeek": 819,
-    "timeMonth": 731,
+    "timeMonth": 735,
     "timeYear": 716,
     "dailyMinutesDown": {}
   },
@@ -1251,16 +1251,17 @@
     "slug": "dumpus-api",
     "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.15%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.89%",
-    "time": 1888,
-    "timeDay": 1579,
-    "timeWeek": 1342,
+    "time": 1882,
+    "timeDay": 1206,
+    "timeWeek": 1285,
     "timeMonth": 1858,
-    "timeYear": 1888,
+    "timeYear": 1882,
     "dailyMinutesDown": {
+      "2025-08-08": 12,
       "2025-07-07": 50,
       "2025-07-06": 33,
       "2025-07-03": 20,
@@ -1277,18 +1278,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/pdfding.androz2091.fr.ico",
     "slug": "pdf-ding",
     "status": "down",
-    "uptime": "68.24%",
+    "uptime": "67.94%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "68.24%",
+    "uptimeYear": "67.94%",
     "time": 376,
     "timeDay": 589,
     "timeWeek": 508,
-    "timeMonth": 384,
+    "timeMonth": 388,
     "timeYear": 376,
     "dailyMinutesDown": {
-      "2025-08-08": 6,
+      "2025-08-08": 621,
       "2025-08-07": 1440,
       "2025-08-06": 1440,
       "2025-08-05": 1440,
@@ -1328,15 +1329,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/prog.students4students.ch.ico",
     "slug": "s4-s-programming-website",
     "status": "up",
-    "uptime": "82.85%",
+    "uptime": "82.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "82.85%",
+    "uptimeYear": "82.92%",
     "time": 1201,
     "timeDay": 1047,
     "timeWeek": 1200,
-    "timeMonth": 1300,
+    "timeMonth": 1312,
     "timeYear": 1201,
     "dailyMinutesDown": {
       "2025-07-07": 781,
@@ -1375,7 +1376,7 @@
     "time": 1115,
     "timeDay": 1275,
     "timeWeek": 1121,
-    "timeMonth": 1011,
+    "timeMonth": 1019,
     "timeYear": 1115,
     "dailyMinutesDown": {
       "2025-07-04": 42,
@@ -1395,8 +1396,8 @@
     "uptimeYear": "99.97%",
     "time": 2595,
     "timeDay": 2380,
-    "timeWeek": 2044,
-    "timeMonth": 2373,
+    "timeWeek": 2114,
+    "timeMonth": 2366,
     "timeYear": 2595,
     "dailyMinutesDown": {
       "2025-06-13": 42
