@@ -91,7 +91,7 @@ sites:
   - name: Madeam
     url: https://madeam.fr
   - name: Clem Creations
-    url: https://www.clem-creations.com
+    url: https://clem-creations.com/health
 
 status-website:
   cname: ismyserverworki.ng
