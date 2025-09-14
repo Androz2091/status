@@ -126,7 +126,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.95%",
+    "uptimeYear": "98.96%",
     "time": 284,
     "timeDay": 511,
     "timeWeek": 332,
@@ -137,8 +137,7 @@
       "2024-09-18": 408,
       "2024-09-17": 929,
       "2024-09-16": 1159,
-      "2024-09-15": 1440,
-      "2024-09-14": 1440
+      "2024-09-15": 1440
     }
   },
   {
@@ -192,11 +191,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/sonarr.androz2091.fr.ico",
     "slug": "sonarr",
     "status": "up",
-    "uptime": "64.38%",
+    "uptime": "64.39%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "69.98%",
+    "uptimeYear": "69.99%",
     "time": 357,
     "timeDay": 482,
     "timeWeek": 357,
@@ -269,8 +268,7 @@
       "2024-09-18": 1440,
       "2024-09-17": 1440,
       "2024-09-16": 1440,
-      "2024-09-15": 1440,
-      "2024-09-14": 1440
+      "2024-09-15": 1440
     }
   },
   {
@@ -279,11 +277,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/overseerr.androz2091.fr.ico",
     "slug": "overseerr",
     "status": "up",
-    "uptime": "64.38%",
+    "uptime": "64.39%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "69.98%",
+    "uptimeYear": "69.99%",
     "time": 465,
     "timeDay": 1066,
     "timeWeek": 628,
@@ -356,8 +354,7 @@
       "2024-09-18": 1440,
       "2024-09-17": 1440,
       "2024-09-16": 1440,
-      "2024-09-15": 1440,
-      "2024-09-14": 1440
+      "2024-09-15": 1440
     }
   },
   {
@@ -633,7 +630,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "93.72%",
+    "uptimeYear": "93.73%",
     "time": 168,
     "timeDay": 279,
     "timeWeek": 177,
@@ -697,8 +694,7 @@
       "2024-09-18": 760,
       "2024-09-17": 619,
       "2024-09-16": 1440,
-      "2024-09-15": 515,
-      "2024-09-14": 92
+      "2024-09-15": 515
     }
   },
   {
@@ -721,8 +717,7 @@
       "2025-04-29": 26,
       "2024-09-17": 183,
       "2024-09-16": 52,
-      "2024-09-15": 114,
-      "2024-09-14": 54
+      "2024-09-15": 114
     }
   },
   {
@@ -849,8 +844,7 @@
       "2024-09-18": 1440,
       "2024-09-17": 1440,
       "2024-09-16": 1440,
-      "2024-09-15": 1440,
-      "2024-09-14": 1440
+      "2024-09-15": 1440
     }
   },
   {
@@ -1146,18 +1140,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/pdfding.androz2091.fr.ico",
     "slug": "pdf-ding",
     "status": "down",
-    "uptime": "49.36%",
+    "uptime": "49.35%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "49.36%",
+    "uptimeYear": "49.35%",
     "time": 387,
     "timeDay": 570,
     "timeWeek": 405,
     "timeMonth": 436,
     "timeYear": 387,
     "dailyMinutesDown": {
-      "2025-09-13": 1421,
+      "2025-09-14": 6,
+      "2025-09-13": 1440,
       "2025-09-12": 1440,
       "2025-09-11": 1440,
       "2025-09-10": 1440,
@@ -1293,18 +1288,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/clem-creations.com.ico",
     "slug": "clem-creations",
     "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.95%",
+    "uptime": "99.93%",
+    "uptimeDay": "98.19%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.93%",
     "time": 2565,
     "timeDay": 3428,
     "timeWeek": 2790,
     "timeMonth": 2710,
     "timeYear": 2565,
     "dailyMinutesDown": {
-      "2025-09-13": 1,
+      "2025-09-14": 6,
+      "2025-09-13": 20,
       "2025-08-17": 41,
       "2025-08-10": 20,
       "2025-06-13": 42
