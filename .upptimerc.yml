@@ -106,3 +106,12 @@ status-website:
       href: https://github.com/$OWNER/$REPO
     - title: K8S Cluster manifests
       href: https://github.com/Androz2091/k8s-infrastructure
+
+workflowSchedule:
+  graphs: "0 0 * * *"
+  responseTime: "0 23 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "0 0 * * *"
