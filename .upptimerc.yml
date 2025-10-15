@@ -84,8 +84,6 @@ sites:
     url: http://api.dumpus.app/health
   - name: PDFDing
     url: https://pdfding.androz2091.fr
-    expectedStatusCodes:
-      - 426 # actually websocket
   - name: S4S Programming website
     url: https://prog.students4students.ch
   - name: Madeam
