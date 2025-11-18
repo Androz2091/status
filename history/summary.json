@@ -153,11 +153,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/sonarr.androz2091.fr.ico",
     "slug": "sonarr",
     "status": "up",
-    "uptime": "72.38%",
+    "uptime": "72.39%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.19%",
+    "uptimeYear": "99.20%",
     "time": 382,
     "timeDay": 410,
     "timeWeek": 382,
@@ -165,8 +165,7 @@
     "timeYear": 350,
     "dailyMinutesDown": {
       "2024-11-20": 458,
-      "2024-11-19": 1440,
-      "2024-11-18": 1440
+      "2024-11-19": 1440
     }
   },
   {
@@ -175,11 +174,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/overseerr.androz2091.fr.ico",
     "slug": "overseerr",
     "status": "up",
-    "uptime": "72.38%",
+    "uptime": "72.39%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.19%",
+    "uptimeYear": "99.20%",
     "time": 491,
     "timeDay": 496,
     "timeWeek": 620,
@@ -187,8 +186,7 @@
     "timeYear": 543,
     "dailyMinutesDown": {
       "2024-11-20": 458,
-      "2024-11-19": 1440,
-      "2024-11-18": 1440
+      "2024-11-19": 1440
     }
   },
   {
@@ -297,7 +295,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.35%",
+    "uptimeYear": "99.36%",
     "time": 343,
     "timeDay": 529,
     "timeWeek": 712,
@@ -306,8 +304,7 @@
     "dailyMinutesDown": {
       "2025-05-07": 27,
       "2024-11-20": 471,
-      "2024-11-19": 1440,
-      "2024-11-18": 1440
+      "2024-11-19": 1440
     }
   },
   {
@@ -471,7 +468,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "93.58%",
+    "uptimeYear": "93.59%",
     "time": 564,
     "timeDay": 503,
     "timeWeek": 633,
@@ -500,8 +497,7 @@
       "2024-11-22": 1440,
       "2024-11-21": 1440,
       "2024-11-20": 1440,
-      "2024-11-19": 1440,
-      "2024-11-18": 1440
+      "2024-11-19": 1440
     }
   },
   {
@@ -790,11 +786,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/pdfding.androz2091.fr.ico",
     "slug": "pdf-ding",
     "status": "up",
-    "uptime": "50.06%",
+    "uptime": "50.07%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "50.06%",
+    "uptimeYear": "50.07%",
     "time": 376,
     "timeDay": 313,
     "timeWeek": 397,
@@ -971,18 +967,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/clem-creations.com.ico",
     "slug": "clem-creations",
     "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.93%",
+    "uptime": "99.91%",
+    "uptimeDay": "95.92%",
+    "uptimeWeek": "99.42%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.91%",
     "time": 2545,
     "timeDay": 804,
     "timeWeek": 2224,
     "timeMonth": 2713,
     "timeYear": 2545,
     "dailyMinutesDown": {
-      "2025-11-17": 1,
+      "2025-11-18": 6,
+      "2025-11-17": 52,
       "2025-09-29": 17,
       "2025-09-18": 16,
       "2025-09-14": 32,
