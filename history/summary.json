@@ -286,17 +286,18 @@
     "slug": "instaddict",
     "status": "down",
     "uptime": "96.89%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "95.98%",
+    "uptimeWeek": "99.43%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.98%",
     "time": 348,
     "timeDay": 0,
     "timeWeek": 636,
     "timeMonth": 870,
     "timeYear": 369,
     "dailyMinutesDown": {
-      "2025-11-23": 1,
+      "2025-11-24": 6,
+      "2025-11-23": 52,
       "2025-05-07": 27
     }
   },
@@ -458,7 +459,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.22%",
+    "uptimeYear": "95.23%",
     "time": 566,
     "timeDay": 644,
     "timeWeek": 539,
@@ -481,8 +482,7 @@
       "2024-11-28": 1440,
       "2024-11-27": 1440,
       "2024-11-26": 1440,
-      "2024-11-25": 1440,
-      "2024-11-24": 1440
+      "2024-11-25": 1440
     }
   },
   {
@@ -771,11 +771,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/pdfding.androz2091.fr.ico",
     "slug": "pdf-ding",
     "status": "up",
-    "uptime": "51.53%",
+    "uptime": "51.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "51.53%",
+    "uptimeYear": "51.54%",
     "time": 375,
     "timeDay": 326,
     "timeWeek": 337,
