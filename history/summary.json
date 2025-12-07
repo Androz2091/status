@@ -60,17 +60,18 @@
     "slug": "umami-analytics",
     "status": "down",
     "uptime": "86.73%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
+    "uptimeDay": "95.96%",
+    "uptimeWeek": "99.42%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.97%",
     "time": 360,
     "timeDay": 3179,
     "timeWeek": 861,
     "timeMonth": 528,
     "timeYear": 377,
     "dailyMinutesDown": {
-      "2025-12-06": 1,
+      "2025-12-07": 5,
+      "2025-12-06": 53,
       "2025-06-26": 85
     }
   },
@@ -208,18 +209,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/photos.androz2091.fr.ico",
     "slug": "immich",
     "status": "down",
-    "uptime": "90.92%",
+    "uptime": "90.91%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "42.85%",
-    "uptimeMonth": "86.85%",
-    "uptimeYear": "98.79%",
+    "uptimeWeek": "42.28%",
+    "uptimeMonth": "86.72%",
+    "uptimeYear": "98.78%",
     "time": 338,
     "timeDay": 3206,
     "timeWeek": 2445,
     "timeMonth": 958,
     "timeYear": 370,
     "dailyMinutesDown": {
-      "2025-12-06": 1388,
+      "2025-12-07": 6,
+      "2025-12-06": 1440,
       "2025-12-05": 1440,
       "2025-12-04": 1440,
       "2025-12-03": 1440,
@@ -409,8 +411,7 @@
       "2025-01-08": 22,
       "2024-12-30": 458,
       "2024-12-21": 92,
-      "2024-12-10": 159,
-      "2024-12-07": 339
+      "2024-12-10": 159
     }
   },
   {
@@ -461,7 +462,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.79%",
+    "uptimeYear": "98.80%",
     "time": 570,
     "timeDay": 453,
     "timeWeek": 468,
@@ -471,8 +472,7 @@
       "2024-12-11": 572,
       "2024-12-10": 1440,
       "2024-12-09": 1440,
-      "2024-12-08": 1440,
-      "2024-12-07": 1440
+      "2024-12-08": 1440
     }
   },
   {
@@ -599,9 +599,7 @@
     "timeWeek": 311,
     "timeMonth": 348,
     "timeYear": 349,
-    "dailyMinutesDown": {
-      "2024-12-07": 17
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Flep Guessr",
@@ -752,11 +750,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/pdfding.androz2091.fr.ico",
     "slug": "pdf-ding",
     "status": "up",
-    "uptime": "54.42%",
+    "uptime": "54.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "54.42%",
+    "uptimeYear": "54.43%",
     "time": 376,
     "timeDay": 331,
     "timeWeek": 341,
@@ -871,11 +869,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/prog.students4students.ch.ico",
     "slug": "s4-s-programming-website",
     "status": "up",
-    "uptime": "92.34%",
+    "uptime": "92.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "92.34%",
+    "uptimeYear": "92.35%",
     "time": 1269,
     "timeDay": 610,
     "timeWeek": 1103,
