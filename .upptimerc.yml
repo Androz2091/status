@@ -61,8 +61,6 @@ sites:
     url: https://simonlefort.fr
   - name: Main website (ndd simonlefort.ch)
     url: https://simonlefort.ch
-  - name: Stirling PDF
-    url: https://pdf.androz2091.fr
   - name: Flep Guessr
     url: https://flepguessr-cs214.androz2091.fr
   - name: h5ai (Servarr)
