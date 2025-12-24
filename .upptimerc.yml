@@ -86,8 +86,6 @@ sites:
     url: https://prog.students4students.ch
   - name: Madeam
     url: https://madeam.fr
-  - name: Clem Creations
-    url: https://clem-creations.com/health
 
 status-website:
   cname: ismyserverworki.ng
