@@ -86,6 +86,12 @@ sites:
     url: https://prog.students4students.ch
   - name: Madeam
     url: https://madeam.fr
+  - name: OpenClaw firewall (port 80)
+    url: tcp://45.155.169.114:80
+  - name: OpenClaw firewall (port 443)
+    url: tcp://45.155.169.114:443
+  - name: OpenClaw firewall (port 18789)
+    url: tcp://45.155.169.114:18789
 
 status-website:
   cname: ismyserverworki.ng
