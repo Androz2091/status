@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 384,
-    "timeDay": 298,
-    "timeWeek": 441,
-    "timeMonth": 374,
+    "timeDay": 307,
+    "timeWeek": 425,
+    "timeMonth": 372,
     "timeYear": 386,
     "dailyMinutesDown": {}
   },
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 364,
-    "timeDay": 245,
-    "timeWeek": 383,
-    "timeMonth": 322,
-    "timeYear": 356,
+    "time": 365,
+    "timeDay": 407,
+    "timeWeek": 407,
+    "timeMonth": 330,
+    "timeYear": 357,
     "dailyMinutesDown": {}
   },
   {
@@ -47,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 350,
-    "timeDay": 210,
-    "timeWeek": 429,
-    "timeMonth": 367,
+    "timeDay": 324,
+    "timeWeek": 430,
+    "timeMonth": 369,
     "timeYear": 352,
     "dailyMinutesDown": {}
   },
@@ -65,9 +65,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.34%",
     "time": 416,
-    "timeDay": 255,
-    "timeWeek": 416,
-    "timeMonth": 415,
+    "timeDay": 376,
+    "timeWeek": 426,
+    "timeMonth": 418,
     "timeYear": 430,
     "dailyMinutesDown": {
       "2025-12-12": 1388,
@@ -92,9 +92,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 368,
-    "timeDay": 229,
-    "timeWeek": 427,
-    "timeMonth": 418,
+    "timeDay": 355,
+    "timeWeek": 434,
+    "timeMonth": 420,
     "timeYear": 370,
     "dailyMinutesDown": {}
   },
@@ -928,18 +928,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/45.155.169.114.ico",
     "slug": "open-claw-firewall-port-80",
     "status": "down",
-    "uptime": "0.67%",
-    "uptimeDay": "0.67%",
-    "uptimeWeek": "0.67%",
-    "uptimeMonth": "0.67%",
-    "uptimeYear": "0.67%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-14": 1
+      "2026-03-14": 2
     }
   },
   {
@@ -959,7 +959,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-14": 1
+      "2026-03-14": 2
     }
   },
   {
@@ -968,18 +968,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/45.155.169.114.ico",
     "slug": "open-claw-firewall-port-18789",
     "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
+    "uptime": "0.14%",
+    "uptimeDay": "0.14%",
+    "uptimeWeek": "0.14%",
+    "uptimeMonth": "0.14%",
+    "uptimeYear": "0.14%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-14": 1
+      "2026-03-14": 2
     }
   }
 ]
