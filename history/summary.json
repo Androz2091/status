@@ -339,8 +339,8 @@
     "status": "down",
     "uptime": "96.95%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "0.80%",
-    "uptimeMonth": "73.87%",
+    "uptimeWeek": "0.70%",
+    "uptimeMonth": "73.85%",
     "uptimeYear": "97.21%",
     "time": 174,
     "timeDay": 65,
@@ -348,7 +348,7 @@
     "timeMonth": 162,
     "timeYear": 175,
     "dailyMinutesDown": {
-      "2026-05-16": 1418,
+      "2026-05-16": 1428,
       "2026-05-15": 1440,
       "2026-05-14": 1440,
       "2026-05-13": 1440,
@@ -398,24 +398,6 @@
     "timeWeek": 544,
     "timeMonth": 392,
     "timeYear": 325,
-    "dailyMinutesDown": {}
-  },
-  {
-    "name": "Monica",
-    "url": "https://monica.androz2091.fr",
-    "icon": "https://icons.duckduckgo.com/ip3/monica.androz2091.fr.ico",
-    "slug": "monica",
-    "status": "up",
-    "uptime": "86.25%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 602,
-    "timeDay": 540,
-    "timeWeek": 1454,
-    "timeMonth": 884,
-    "timeYear": 615,
     "dailyMinutesDown": {}
   },
   {
@@ -551,8 +533,8 @@
     "slug": "paperless",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 376,
@@ -560,7 +542,9 @@
     "timeWeek": 583,
     "timeMonth": 452,
     "timeYear": 382,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-05-16": 2
+    }
   },
   {
     "name": "Dumpus (landing)",
@@ -607,7 +591,7 @@
     "uptime": "96.51%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "50.66%",
+    "uptimeMonth": "50.64%",
     "uptimeYear": "95.86%",
     "time": 1406,
     "timeDay": 0,
@@ -615,7 +599,7 @@
     "timeMonth": 1110,
     "timeYear": 1267,
     "dailyMinutesDown": {
-      "2026-05-16": 1419,
+      "2026-05-16": 1428,
       "2026-05-15": 1440,
       "2026-05-14": 1440,
       "2026-05-13": 1440,
@@ -836,7 +820,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-16": 1419,
+      "2026-05-16": 1428,
       "2026-05-15": 1440,
       "2026-05-14": 1440,
       "2026-05-13": 1440,
@@ -919,7 +903,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-16": 1419,
+      "2026-05-16": 1428,
       "2026-05-15": 1440,
       "2026-05-14": 1440,
       "2026-05-13": 1440,
@@ -1002,7 +986,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-16": 1419,
+      "2026-05-16": 1428,
       "2026-05-15": 1440,
       "2026-05-14": 1440,
       "2026-05-13": 1440,
