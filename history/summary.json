@@ -42,8 +42,8 @@
     "slug": "diswho",
     "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "99.80%",
-    "uptimeWeek": "99.97%",
+    "uptimeDay": "99.75%",
+    "uptimeWeek": "99.96%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 350,
@@ -52,7 +52,7 @@
     "timeMonth": 373,
     "timeYear": 355,
     "dailyMinutesDown": {
-      "2026-05-16": 3
+      "2026-05-16": 4
     }
   },
   {
@@ -61,8 +61,8 @@
     "icon": "https://icons.duckduckgo.com/ip3/analytics.androz2091.fr.ico",
     "slug": "umami-analytics",
     "status": "down",
-    "uptime": "87.72%",
-    "uptimeDay": "99.82%",
+    "uptime": "87.71%",
+    "uptimeDay": "99.76%",
     "uptimeWeek": "99.97%",
     "uptimeMonth": "96.71%",
     "uptimeYear": "98.07%",
@@ -92,8 +92,8 @@
     "slug": "plex",
     "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.97%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 366,
@@ -102,7 +102,7 @@
     "timeMonth": 349,
     "timeYear": 369,
     "dailyMinutesDown": {
-      "2026-05-16": 2
+      "2026-05-16": 3
     }
   },
   {
@@ -112,9 +112,9 @@
     "slug": "overseerr",
     "status": "down",
     "uptime": "82.98%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.79%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 560,
     "timeDay": 455,
@@ -122,7 +122,7 @@
     "timeMonth": 646,
     "timeYear": 573,
     "dailyMinutesDown": {
-      "2026-05-16": 2
+      "2026-05-16": 3
     }
   },
   {
@@ -132,9 +132,9 @@
     "slug": "file-browser",
     "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 303,
     "timeDay": 140,
@@ -142,7 +142,7 @@
     "timeMonth": 284,
     "timeYear": 310,
     "dailyMinutesDown": {
-      "2026-05-16": 2
+      "2026-05-16": 3
     }
   },
   {
@@ -152,9 +152,9 @@
     "slug": "immich",
     "status": "up",
     "uptime": "92.01%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "97.25%",
     "time": 382,
     "timeDay": 235,
@@ -162,7 +162,7 @@
     "timeMonth": 277,
     "timeYear": 387,
     "dailyMinutesDown": {
-      "2026-05-16": 2,
+      "2026-05-16": 3,
       "2025-12-12": 1388,
       "2025-12-11": 1440,
       "2025-12-10": 1440,
@@ -184,9 +184,9 @@
     "slug": "haste-server",
     "status": "up",
     "uptime": "99.73%",
-    "uptimeDay": "99.89%",
+    "uptimeDay": "99.83%",
     "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 290,
     "timeDay": 190,
@@ -351,7 +351,7 @@
     "status": "down",
     "uptime": "96.94%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "0.59%",
+    "uptimeWeek": "0.58%",
     "uptimeMonth": "73.82%",
     "uptimeYear": "97.21%",
     "time": 174,
@@ -591,7 +591,7 @@
     "timeMonth": 1110,
     "timeYear": 1267,
     "dailyMinutesDown": {
-      "2026-05-16": 1439,
+      "2026-05-16": 1440,
       "2026-05-15": 1440,
       "2026-05-14": 1440,
       "2026-05-13": 1440,
@@ -812,7 +812,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-16": 1439,
+      "2026-05-16": 1440,
       "2026-05-15": 1440,
       "2026-05-14": 1440,
       "2026-05-13": 1440,
@@ -895,7 +895,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-16": 1439,
+      "2026-05-16": 1440,
       "2026-05-15": 1440,
       "2026-05-14": 1440,
       "2026-05-13": 1440,
@@ -978,7 +978,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-16": 1439,
+      "2026-05-16": 1440,
       "2026-05-15": 1440,
       "2026-05-14": 1440,
       "2026-05-13": 1440,
