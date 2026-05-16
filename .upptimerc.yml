@@ -13,14 +13,6 @@ sites:
     url: https://analytics.androz2091.fr
   - name: Plex
     url: https://plex.androz2091.fr/web/index.html
-  - name: Tautulli
-    url: https://tautulli.androz2091.fr/auth/login
-  - name: Sabnzbd
-    url: https://sabnzbd.androz2091.fr
-  - name: Radarr
-    url: https://radarr.androz2091.fr
-  - name: Sonarr
-    url: https://sonarr.androz2091.fr
   - name: Overseerr
     url: https://overseerr.androz2091.fr
   - name: FileBrowser
@@ -49,12 +41,8 @@ sites:
     url: https://timetagger.androz2091.fr
   - name: Monica
     url: https://monica.androz2091.fr
-  - name: Prometheus Grafana
-    url: https://prometheus-grafana.androz2091.fr
   - name: Harbor
     url: https://harbor.androz2091.fr
-  - name: ArgoCD
-    url: https://argocd.androz2091.fr
   - name: Main website (ndd androz2091)
     url: https://androz2091.fr
   - name: Main website (ndd simonlefort.fr)
