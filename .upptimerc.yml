@@ -58,10 +58,6 @@ sites:
     maxRedirects: 0
     expectedStatusCodes:
       - 302
-  - name: Paperless
-    url: https://documents.androz2091.fr
-    expectedStatusCodes:
-      - 401
   - name: Dumpus (landing)
     url: https://dumpus.app
   - name: Dumpus (web client)
