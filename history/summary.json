@@ -157,8 +157,8 @@
     "slug": "immich",
     "status": "up",
     "uptime": "92.00%",
-    "uptimeDay": "94.62%",
-    "uptimeWeek": "99.23%",
+    "uptimeDay": "94.57%",
+    "uptimeWeek": "99.22%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "97.24%",
     "time": 382,
@@ -167,7 +167,7 @@
     "timeMonth": 277,
     "timeYear": 387,
     "dailyMinutesDown": {
-      "2026-05-17": 74,
+      "2026-05-17": 75,
       "2026-05-16": 3,
       "2025-12-12": 1388,
       "2025-12-11": 1440,
@@ -190,7 +190,7 @@
     "slug": "haste-server",
     "status": "up",
     "uptime": "99.72%",
-    "uptimeDay": "94.64%",
+    "uptimeDay": "94.58%",
     "uptimeWeek": "99.23%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.99%",
@@ -200,7 +200,7 @@
     "timeMonth": 275,
     "timeYear": 294,
     "dailyMinutesDown": {
-      "2026-05-17": 74,
+      "2026-05-17": 75,
       "2026-05-16": 3
     }
   },
@@ -357,7 +357,7 @@
     "slug": "manage-invite-api",
     "status": "down",
     "uptime": "96.94%",
-    "uptimeDay": "1.03%",
+    "uptimeDay": "1.08%",
     "uptimeWeek": "0.15%",
     "uptimeMonth": "73.69%",
     "uptimeYear": "97.20%",
