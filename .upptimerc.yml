@@ -63,7 +63,7 @@ sites:
   - name: Dumpus (web client)
     url: https://web.dumpus.app
   - name: Dumpus (API)
-    url: http://api.dumpus.app/health
+    url: https://api.dumpus.app/health
     maxResponseTime: 60000
   - name: PDFDing
     url: https://pdfding.androz2091.fr
