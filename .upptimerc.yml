@@ -71,6 +71,30 @@ sites:
     url: https://prog.students4students.ch
   - name: Madeam
     url: https://madeam.fr
+  - name: Change Detection
+    url: https://changedetection.androz2091.fr
+    expectedStatusCodes:
+      - 401
+  - name: Monica
+    url: https://monica.androz2091.fr
+    expectedStatusCodes:
+      - 401
+  - name: Grafana
+    url: https://prometheus-grafana.androz2091.fr
+    expectedStatusCodes:
+      - 401
+  - name: Radarr
+    url: https://radarr.androz2091.fr
+    expectedStatusCodes:
+      - 401
+  - name: Sonarr
+    url: https://sonarr.androz2091.fr
+    expectedStatusCodes:
+      - 401
+  - name: Tautulli
+    url: https://tautulli.androz2091.fr
+    expectedStatusCodes:
+      - 401
 
 status-website:
   cname: ismyserverworki.ng
