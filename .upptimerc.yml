@@ -33,10 +33,6 @@ sites:
     url: https://slash-commands-gui.androz2091.fr
   - name: ManageInvite
     url: https://manage-invite.xyz
-  - name: ManageInvite API
-    url: https://api.manage-invite.xyz
-  - name: (stale) ManageInvite API
-    url: https://dash.manage-invite.xyz
   - name: Tagger
     url: https://timetagger.androz2091.fr
   - name: Harbor
@@ -95,6 +91,36 @@ sites:
     url: https://tautulli.androz2091.fr
     expectedStatusCodes:
       - 401
+  - name: Bonds
+    url: https://bonds.androz2091.fr
+  - name: AirTrail
+    url: https://airtrail.androz2091.fr
+    # TinyAuth returns 401 for unauthenticated monitoring requests.
+    expectedStatusCodes:
+      - 401
+  - name: SuperWaymo
+    url: https://superwaymo.androz2091.fr
+    # TinyAuth returns 401 for unauthenticated monitoring requests.
+    expectedStatusCodes:
+      - 401
+  - name: TinyAuth
+    url: https://auth.androz2091.fr
+  - name: Paperless
+    url: https://documents.androz2091.fr
+    # TinyAuth returns 401 for unauthenticated monitoring requests.
+    expectedStatusCodes:
+      - 401
+  - name: SABnzbd
+    url: https://sabnzbd.androz2091.fr
+    # TinyAuth returns 401 for unauthenticated monitoring requests.
+    expectedStatusCodes:
+      - 401
+  - name: Jellyfin
+    url: https://jellyfin.androz2091.fr
+  - name: Invoice Ninja
+    url: https://ninja.androz2091.fr
+  - name: Shlink
+    url: https://go.simonlefort.ch/rest/health
 
 status-website:
   cname: ismyserverworki.ng
