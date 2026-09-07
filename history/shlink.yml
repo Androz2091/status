@@ -1,7 +1,7 @@
 url: https://go.simonlefort.ch/rest/health
-status: up
-code: 200
-responseTime: 564
-lastUpdated: 2026-09-06T00:47:06.397Z
+status: down
+code: 503
+responseTime: 238
+lastUpdated: 2026-09-07T00:50:13.624Z
 startTime: 2026-09-05T16:03:55.004Z
 generator: Upptime <https://github.com/upptime/upptime>
