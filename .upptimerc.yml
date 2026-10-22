@@ -119,6 +119,9 @@ sites:
     url: https://jellyfin.androz2091.fr
   - name: Invoice Ninja
     url: https://ninja.androz2091.fr
+    # Behind TinyAuth until its image ships a patched PHP (PHP2Shell, Androz2091/k8s-infrastructure#82).
+    expectedStatusCodes:
+      - 401
   - name: Shlink
     url: https://go.simonlefort.ch/rest/health
 
