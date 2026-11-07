@@ -119,6 +119,9 @@ sites:
     url: https://jellyfin.androz2091.fr
   - name: Invoice Ninja
     url: https://ninja.androz2091.fr
+    # TinyAuth returns 401 for unauthenticated monitoring requests.
+    expectedStatusCodes:
+      - 401
   - name: Shlink
     url: https://go.simonlefort.ch/rest/health
 
